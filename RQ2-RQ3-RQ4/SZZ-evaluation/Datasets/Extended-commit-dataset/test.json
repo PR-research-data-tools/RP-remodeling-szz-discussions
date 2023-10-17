@@ -1,0 +1,14 @@
+[
+  {
+        "id": 1618721,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "7585c073762cc56fe7146a8f449a734ab70397b6",
+        "files": [
+            "browser/themes/shared/urlbar-autocomplete.inc.css"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2020-02-28T00:37:21"
+    }
+]

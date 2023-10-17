@@ -1,0 +1,1 @@
+python3 main.py ../extended_normal_dataset.json conf/bszz.yml ..

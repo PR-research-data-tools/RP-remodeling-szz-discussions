@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "nlp-szz"
+version = "0.1.0"
+description = ""
+authors = ["fpetrulio <f.petrulio@virgilio.it>"]
+readme = "README.md"
+packages = [{include = "nlp_szz"}]
+
+[tool.poetry.dependencies]
+python = "~3.9"
+bugbug = "~0.0.483"
+tqdm = "*"
+libmozdata = "*"
+jupyterlab = "*"
+jupyter = "*"
+textdistance = "*"
+matplotlib = "*"
+nltk = "*"
+spacy = "*"
+seaborn = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+

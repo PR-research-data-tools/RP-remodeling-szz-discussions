@@ -1,0 +1,6 @@
+model,overlap,unique,tp,all
+B-SZZ,0.1,23,220,224
+AG-SZZ,0.0,0,201,224
+L-SZZ,0.0,0,142,224
+R-SZZ,0.0,0,174,224
+MA-SZZ,0.0,0,193,224

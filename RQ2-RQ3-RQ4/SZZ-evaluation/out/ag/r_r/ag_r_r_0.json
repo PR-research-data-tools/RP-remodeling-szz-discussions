@@ -1,0 +1,2423 @@
+[
+    {
+        "id": 0,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "744d122df80b919e86d5b4627b35da7a27597bf9",
+        "files": [
+            "toolkit/moz.configure",
+            "taskcluster/ci/test/mochitest.yml",
+            "ci/test/mochitest.yml"
+        ],
+        "bug_commit_hash": [
+            "e30a0aeaa72687ce1fc16cfc994d774bcf12dfb2",
+            "58baf702937fc8bf5374d2787be65fcaeea766f5",
+            "f64a8f3a9d6980d73379ebdd60dd4d5d7976dbc6",
+            "62160b87fdfb1895663e1dc316535d0162bfc66b"
+        ],
+        "earliest_issue_date": "2019-12-14T13:23:18",
+        "inducing_commit_hash": [
+            "7bae624f6c99ca081088f5be56fb4f9f29e4585e"
+        ]
+    },
+    {
+        "id": 1,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "30ee93bb3810f54ab606e9d7fb2a5df026657b9a",
+        "files": [
+            "toolkit/moz.configure",
+            "taskcluster/ci/test/mochitest.yml",
+            "ci/test/mochitest.yml"
+        ],
+        "bug_commit_hash": [
+            "e30a0aeaa72687ce1fc16cfc994d774bcf12dfb2",
+            "58baf702937fc8bf5374d2787be65fcaeea766f5",
+            "f64a8f3a9d6980d73379ebdd60dd4d5d7976dbc6",
+            "62160b87fdfb1895663e1dc316535d0162bfc66b"
+        ],
+        "earliest_issue_date": "2019-12-14T13:23:18",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 2,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "1630ec1ceb44642038cc09613f471cf08e6e9ee8",
+        "files": [
+            "testing/web-platform/meta/workers/modules/shared-worker-import-data-url.any.js.ini"
+        ],
+        "bug_commit_hash": [
+            "c7ccff9e86c88ce80c7206f536ab5bbaefaa8a4a",
+            "c358fa94fa573c858da62f6f63fde2787113f6b0"
+        ],
+        "earliest_issue_date": "2020-02-15T13:37:44",
+        "inducing_commit_hash": [
+            "32f1f6f4bc37e64c8cdf754094cffc60095733fa"
+        ]
+    },
+    {
+        "id": 3,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "7b068d601685b8b332d916840433ee94c427cfb8",
+        "files": [
+            "testing/marionette/sync.js",
+            "testing/marionette/test/unit/test_sync.js",
+            "marionette/sync.js"
+        ],
+        "bug_commit_hash": [
+            "9d540af2bdb6421e04841b85f452ac51182bdda3",
+            "bff45817f9accf369fb4fe9a3d4c7804d0de07b8",
+            "f9eef5f62a4250be2918595e2e89de8d99ba2a76"
+        ],
+        "earliest_issue_date": "2020-03-03T01:53:32",
+        "inducing_commit_hash": [
+            "86179b17c6dfe58414eb8897c018e83c5fdc869c"
+        ]
+    },
+    {
+        "id": 4,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "85434a4ca57ca57df4618d09e6ddb037206501ad",
+        "files": [
+            "build/application.ini.in",
+            "mozbuild/mozbuild/test/backend/data/build/prefs.js",
+            "build/moz.build",
+            "application.ini.in",
+            "application.ini"
+        ],
+        "bug_commit_hash": [
+            "67aacdc2e924880c9dbe742a3d814b5a5dfa02df",
+            "b9422c9b245ba87fb8033aeadf4b237624c20657",
+            "ab7ccfd08b9ef49c12ca98549cc7c3a6a0d46aac"
+        ],
+        "earliest_issue_date": "2020-04-14T20:15:54",
+        "inducing_commit_hash": [
+            "ab7ccfd08b9ef49c12ca98549cc7c3a6a0d46aac",
+            "039ad6ce88679543ddee3266516513be46cc7fc9"
+        ]
+    },
+    {
+        "id": 5,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "6b2a59a2a263181e94cb0c4aaec402abb121a7ab",
+        "files": [
+            "rb/find_leakers.py",
+            "tools/rb/fix_stacks.py"
+        ],
+        "bug_commit_hash": [
+            "268f4558317adb798111cb8dec0c711e5d6053e3",
+            "b6009750948cf7bc32d37ae0070f46c40a9a53ae"
+        ],
+        "earliest_issue_date": "2020-05-30T00:06:17",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 6,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "d887468704579062d110ed6b61e33cd70d5adda8",
+        "files": [
+            "rb/find_leakers.py",
+            "tools/rb/fix_stacks.py"
+        ],
+        "bug_commit_hash": [
+            "268f4558317adb798111cb8dec0c711e5d6053e3",
+            "b6009750948cf7bc32d37ae0070f46c40a9a53ae"
+        ],
+        "earliest_issue_date": "2020-05-30T00:06:17",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 7,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "afa6467dc8afeb12e24cf4728b1168d1aba926a5",
+        "files": [
+            "components/passwordmgr/test/unit/test_module_LoginStoreTelemetry.js",
+            "toolkit/components/passwordmgr/test/unit/test_module_LoginStoreTelemetry.js"
+        ],
+        "bug_commit_hash": [
+            "1a1acaf48dc5d8b4187c7c976eec24e240def9be",
+            "0f4d7052fe2db50ef8e4c24a6fe6dfd433cbccea",
+            "6febccb225e3bd77f72ceb83871f0b7a28fdf670"
+        ],
+        "earliest_issue_date": "2020-06-26T14:12:28",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 8,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "c4bb2dd13eac4cff95a6009512fc856262846c87",
+        "files": [
+            "dom/workers/test/xpcshell/test_remoteworker_launch_new_process.js",
+            "dom/workers/test/xpcshell/xpcshell.ini"
+        ],
+        "bug_commit_hash": [
+            "15a4ad2fcc6977b2d64175aaf6b312f9be1db01e",
+            "cf664e5275423583480e2262c7b2b823086dd91a",
+            "fcfa08cff85e67e56fe8b3fff067b728e5df6c3f",
+            "e7242341acaa7932d3af7eed69a618efb4b88ea0",
+            "cd6671c3877b2e977ebab89b61a5b13000a5bee8",
+            "55567b53f55ee68b467235b7d0b7e82aa4a8962f"
+        ],
+        "earliest_issue_date": "2020-06-30T08:50:38",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 9,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "8eac3159adc6ec3636091f321e1b1341dbc55536",
+        "files": [
+            "dom/workers/test/xpcshell/test_remoteworker_launch_new_process.js",
+            "dom/workers/test/xpcshell/xpcshell.ini"
+        ],
+        "bug_commit_hash": [
+            "15a4ad2fcc6977b2d64175aaf6b312f9be1db01e",
+            "cf664e5275423583480e2262c7b2b823086dd91a",
+            "fcfa08cff85e67e56fe8b3fff067b728e5df6c3f",
+            "e7242341acaa7932d3af7eed69a618efb4b88ea0",
+            "cd6671c3877b2e977ebab89b61a5b13000a5bee8",
+            "55567b53f55ee68b467235b7d0b7e82aa4a8962f"
+        ],
+        "earliest_issue_date": "2020-06-30T08:50:38",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 10,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "e2638a57107789b33da4f4b16768d03df0b369f1",
+        "files": [
+            "widget/nsPrinterListCUPS.cpp",
+            "widget/nsCUPSShim.h",
+            "widget/nsCUPSShim.cpp"
+        ],
+        "bug_commit_hash": [
+            "7a59ba392ed2a9ec1edd99c1d61060b0ec669bf2",
+            "124b4b88f35f9e1be783408782b2814e11969745",
+            "391a45c7a823f769e965fae8253df4062604c780",
+            "a270bab7ae3169f3c3f21a78ba279dbd17ea25a6",
+            "8d8d966872fac5b44a05d1269b84107361100473"
+        ],
+        "earliest_issue_date": "2020-08-08T00:35:32",
+        "inducing_commit_hash": [
+            "6d0d986576f663727ec3e4d454c87ea5aa7430b7",
+            "1f075ade2c6303e06402cfbb8c0fbfecdd37a229",
+            "e0172bc4a970b0ca62f460ff6fe826543f591511",
+            "fc1c8c31bd4138af362ec92c8c6a8bfc42a40d42",
+            "916f3f799c63996fd8a93634b4353285d56d5c71",
+            "8d8d966872fac5b44a05d1269b84107361100473"
+        ]
+    },
+    {
+        "id": 11,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "b3e7cb6ec721f4598b1d219063a031c55407832d",
+        "files": [
+            "widget/nsPrinterListCUPS.cpp",
+            "widget/nsCUPSShim.h",
+            "widget/nsCUPSShim.cpp"
+        ],
+        "bug_commit_hash": [
+            "7a59ba392ed2a9ec1edd99c1d61060b0ec669bf2",
+            "124b4b88f35f9e1be783408782b2814e11969745",
+            "391a45c7a823f769e965fae8253df4062604c780",
+            "a270bab7ae3169f3c3f21a78ba279dbd17ea25a6",
+            "8d8d966872fac5b44a05d1269b84107361100473"
+        ],
+        "earliest_issue_date": "2020-08-08T00:35:32",
+        "inducing_commit_hash": [
+            "916f3f799c63996fd8a93634b4353285d56d5c71",
+            "fc1c8c31bd4138af362ec92c8c6a8bfc42a40d42"
+        ]
+    },
+    {
+        "id": 12,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "f85e5c34fefdedaf920a5b61307ac5259bffe593",
+        "files": [
+            "testing/mochitest/BrowserTestUtils/BrowserTestUtils.jsm",
+            "mochitest/BrowserTestUtils/BrowserTestUtils.jsm",
+            "testing/mochitest/BrowserTestUtils/ContentEventListenerParent.jsm"
+        ],
+        "bug_commit_hash": [
+            "2fb56b0a2cfa73b591da6bb1fc416bebc71f38e2",
+            "4ec128c036a973380b7f2f77a164befaec6ca41e"
+        ],
+        "earliest_issue_date": "2020-08-25T23:39:45",
+        "inducing_commit_hash": [
+            "dbfac06a11a399fbb6f13daa371615393371beb3"
+        ]
+    },
+    {
+        "id": 13,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "84a503a0862b2a6c924e19d2becc248262087181",
+        "files": [
+            "marionette/harness/marionette_harness/tests/unit/test_window_status_content.py",
+            "testing/marionette/harness/marionette_harness/tests/unit/test_window_status_content.py",
+            "marionette/browser.js",
+            "marionette/harness/marionette_harness/tests/unit/test_click.py",
+            "testing/marionette/browser.js",
+            "testing/marionette/driver.js",
+            "testing/marionette/harness/marionette_harness/tests/unit/test_window_status_chrome.py"
+        ],
+        "bug_commit_hash": [
+            "be2a98e54df0d0836af0fd8d7d1395373ca1389c",
+            "953ab4620dce8b25208040149d6c24b3051d3be9",
+            "aabf94926cca7bfe963a67fb178950b54c00b356"
+        ],
+        "earliest_issue_date": "2020-09-16T17:47:40",
+        "inducing_commit_hash": [
+            "4dca75d46f9d7c85fd4a2298eb4f00366dde86a5",
+            "831c0f29f428980937fab0a07318987fcdf17991",
+            "347f7073f0b4acb3da6938194b6c7170051a65a1",
+            "e07e9a4041db8e635a9082888ee39a85007ddd61"
+        ]
+    },
+    {
+        "id": 14,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "e854d87abb8ff25610ac4d730b192589432e5018",
+        "files": [
+            "testing/raptor/raptor/raptor.ini",
+            "testing/raptor/raptor/tests/benchmarks/raptor-wasm-godot-cranelift.ini",
+            "testing/raptor/raptor/tests/benchmarks/raptor-wasm-misc-cranelift.ini",
+            "taskcluster/ci/test/raptor.yml",
+            "taskcluster/ci/test/test-sets.yml"
+        ],
+        "bug_commit_hash": [
+            "e4f1e06b54d5318afc13aebca804d44347a4d798",
+            "b67720665ed6ae781d750725c0719ac51bef4456",
+            "431823c671c4abbf3a4724375f85b94a4e76b926",
+            "1f413b1c2124361988485e40fd1aa31d2c8f509b"
+        ],
+        "earliest_issue_date": "2020-11-06T18:24:01",
+        "inducing_commit_hash": [
+            "40bdb6355c7d58100a9334e2220b5eccc26b668a",
+            "75fc1463a270d3cd0372810638b8b917ff60ec35",
+            "b2d719809ff8b713f8f5c73139444b63643e05dc",
+            "f4b96d99d24dd11e53805ededd4f96fabd8b97c3",
+            "6421373d00de3c5a56f078681badd1c51e9ac984"
+        ]
+    },
+    {
+        "id": 15,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "bb4c5a3abb674b5b270efed65bf06c749304a263",
+        "files": [
+            "testing/geckodriver/doc/Flags.md",
+            "testing/mozbase/rust/mozdevice/src/lib.rs",
+            "mozbase/rust/mozdevice/src/lib.rs",
+            "testing/geckodriver/src/marionette.rs",
+            "testing/mozbase/rust/mozdevice/src/test.rs",
+            "testing/geckodriver/src/android.rs",
+            "geckodriver/src/android.rs",
+            "testing/geckodriver/src/capabilities.rs",
+            "testing/geckodriver/src/main.rs"
+        ],
+        "bug_commit_hash": [
+            "5b3d346456a7216df8b3fa7695c2fe1158259bcb",
+            "dded9a8ff5d1feb60fde8a6556c0443bfb89e2a7"
+        ],
+        "earliest_issue_date": "2020-12-03T00:47:26",
+        "inducing_commit_hash": [
+            "2bc1986a78405fecdd7bbee9a94052d4e4dc4ee0",
+            "474ef36d7dcb9386c5a2806e473881d2bf9e60c4",
+            "3a22694f8ec54c6bc77fb2e1df1e430fa64b25ee",
+            "2e065df4f1fe21fe8a900bb79110b04496e96a0b",
+            "8bb516973931207a4ad274027e5ac688340b0952",
+            "e502708e755cbd10cc5227d59c76025be2061692",
+            "5b3d346456a7216df8b3fa7695c2fe1158259bcb"
+        ]
+    },
+    {
+        "id": 16,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "93acc32c7cd86cf125438cfc9e8d906f1334dddc",
+        "files": [
+            "testing/geckodriver/doc/Flags.md",
+            "testing/mozbase/rust/mozdevice/src/lib.rs",
+            "mozbase/rust/mozdevice/src/lib.rs",
+            "testing/geckodriver/src/marionette.rs",
+            "testing/mozbase/rust/mozdevice/src/test.rs",
+            "testing/geckodriver/src/android.rs",
+            "geckodriver/src/android.rs",
+            "testing/geckodriver/src/capabilities.rs",
+            "testing/geckodriver/src/main.rs"
+        ],
+        "bug_commit_hash": [
+            "5b3d346456a7216df8b3fa7695c2fe1158259bcb",
+            "dded9a8ff5d1feb60fde8a6556c0443bfb89e2a7"
+        ],
+        "earliest_issue_date": "2020-12-03T00:47:26",
+        "inducing_commit_hash": [
+            "5b3d346456a7216df8b3fa7695c2fe1158259bcb"
+        ]
+    },
+    {
+        "id": 17,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "3a2a700dd173fcfdf96a0a3bab18458bd8e3e2d4",
+        "files": [
+            "testing/geckodriver/doc/Flags.md",
+            "testing/mozbase/rust/mozdevice/src/lib.rs",
+            "mozbase/rust/mozdevice/src/lib.rs",
+            "testing/geckodriver/src/marionette.rs",
+            "testing/mozbase/rust/mozdevice/src/test.rs",
+            "testing/geckodriver/src/android.rs",
+            "geckodriver/src/android.rs",
+            "testing/geckodriver/src/capabilities.rs",
+            "testing/geckodriver/src/main.rs"
+        ],
+        "bug_commit_hash": [
+            "5b3d346456a7216df8b3fa7695c2fe1158259bcb",
+            "dded9a8ff5d1feb60fde8a6556c0443bfb89e2a7"
+        ],
+        "earliest_issue_date": "2020-12-03T00:47:26",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 18,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "9c9c03436140cda878c4a6d30068fabe87ef2c29",
+        "files": [
+            "testing/geckodriver/doc/Flags.md",
+            "testing/mozbase/rust/mozdevice/src/lib.rs",
+            "mozbase/rust/mozdevice/src/lib.rs",
+            "testing/geckodriver/src/marionette.rs",
+            "testing/mozbase/rust/mozdevice/src/test.rs",
+            "testing/geckodriver/src/android.rs",
+            "geckodriver/src/android.rs",
+            "testing/geckodriver/src/capabilities.rs",
+            "testing/geckodriver/src/main.rs"
+        ],
+        "bug_commit_hash": [
+            "5b3d346456a7216df8b3fa7695c2fe1158259bcb",
+            "dded9a8ff5d1feb60fde8a6556c0443bfb89e2a7"
+        ],
+        "earliest_issue_date": "2020-12-03T00:47:26",
+        "inducing_commit_hash": [
+            "5b3d346456a7216df8b3fa7695c2fe1158259bcb"
+        ]
+    },
+    {
+        "id": 19,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "76f53675fde59ecd113fa2bc8dd080724523c318",
+        "files": [
+            "taskcluster/ci/toolchain/rust.yml"
+        ],
+        "bug_commit_hash": [
+            "2f876f17b36e664559c33a879b20408faf974647",
+            "f400139a97bde257946a5abf7a69d65feda53b6a",
+            "e4c4c9b7beae91e74d65dc0aa4d8438f315dcfd7"
+        ],
+        "earliest_issue_date": "2020-12-03T10:38:20",
+        "inducing_commit_hash": [
+            "2f876f17b36e664559c33a879b20408faf974647",
+            "f400139a97bde257946a5abf7a69d65feda53b6a"
+        ]
+    },
+    {
+        "id": 20,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "b350cd8a7e112f185db1b332593510e42fc7f8fd",
+        "files": [
+            "testing/web-platform/tests/tools/wptserve/wptserve/stash.py"
+        ],
+        "bug_commit_hash": [
+            "b4699fd595cf720621a4ad861785fe3b4fa19aec"
+        ],
+        "earliest_issue_date": "2021-01-14T00:34:51",
+        "inducing_commit_hash": [
+            "b4699fd595cf720621a4ad861785fe3b4fa19aec"
+        ]
+    },
+    {
+        "id": 21,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "129f797488b0517fad3b5205c8c1ef58928ec427",
+        "files": [
+            "testing/marionette/components/marionette.js",
+            "testing/marionette/test/unit/test_modal.js",
+            "marionette/modal.js",
+            "marionette/harness/marionette_harness/tests/unit/test_modal_dialogs.py",
+            "testing/marionette/client/marionette_driver/geckoinstance.py",
+            "testing/marionette/modal.js",
+            "testing/marionette/driver.js",
+            "marionette/components/marionette.js"
+        ],
+        "bug_commit_hash": [
+            "330e2831c06d9aef0d0157f003e26219d28c61a6",
+            "35abc54d5bc3a75108d38992afc4ae7e4dc4e6d9",
+            "a0207478a1d0a50e815fb51b9ab96b4d152ae662",
+            "f79a6bd5a2446d667d50a2dfa6c1d40639e13a5b",
+            "ad066e10ce92f36c29c1cba0fd1bef26173945a9",
+            "7f8596ed89d27cd70e760b186030d8083d35cbac",
+            "a5c9f5e1b8e1a09420f7723fe4a407d84461fb03",
+            "5b188a3c3f10a9da8856c31f13b9377760d76980",
+            "7db861799e81a1a828cd14c0f02e357c37e1c81d",
+            "e2d37873a55480168aabe83d3fc2c09f99f1275b",
+            "e65911e3747783051f816560604a0653256773ec"
+        ],
+        "earliest_issue_date": "2021-01-14T15:42:35",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 22,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "0547d55507300bd14496d1ebe2316e3a6ce390c1",
+        "files": [
+            "testing/marionette/components/marionette.js",
+            "testing/marionette/test/unit/test_modal.js",
+            "marionette/modal.js",
+            "marionette/harness/marionette_harness/tests/unit/test_modal_dialogs.py",
+            "testing/marionette/client/marionette_driver/geckoinstance.py",
+            "testing/marionette/modal.js",
+            "testing/marionette/driver.js",
+            "marionette/components/marionette.js"
+        ],
+        "bug_commit_hash": [
+            "330e2831c06d9aef0d0157f003e26219d28c61a6",
+            "35abc54d5bc3a75108d38992afc4ae7e4dc4e6d9",
+            "a0207478a1d0a50e815fb51b9ab96b4d152ae662",
+            "f79a6bd5a2446d667d50a2dfa6c1d40639e13a5b",
+            "ad066e10ce92f36c29c1cba0fd1bef26173945a9",
+            "7f8596ed89d27cd70e760b186030d8083d35cbac",
+            "a5c9f5e1b8e1a09420f7723fe4a407d84461fb03",
+            "5b188a3c3f10a9da8856c31f13b9377760d76980",
+            "7db861799e81a1a828cd14c0f02e357c37e1c81d",
+            "e2d37873a55480168aabe83d3fc2c09f99f1275b",
+            "e65911e3747783051f816560604a0653256773ec"
+        ],
+        "earliest_issue_date": "2021-01-14T15:42:35",
+        "inducing_commit_hash": [
+            "a8f8e49cf11c5927b794ba9e65112c5e31d1e146",
+            "953ab4620dce8b25208040149d6c24b3051d3be9"
+        ]
+    },
+    {
+        "id": 23,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "b1bc6ad4ba1bfa917048764fa6460594461c7900",
+        "files": [
+            "testing/marionette/components/marionette.js",
+            "testing/marionette/test/unit/test_modal.js",
+            "marionette/modal.js",
+            "marionette/harness/marionette_harness/tests/unit/test_modal_dialogs.py",
+            "testing/marionette/client/marionette_driver/geckoinstance.py",
+            "testing/marionette/modal.js",
+            "testing/marionette/driver.js",
+            "marionette/components/marionette.js"
+        ],
+        "bug_commit_hash": [
+            "330e2831c06d9aef0d0157f003e26219d28c61a6",
+            "35abc54d5bc3a75108d38992afc4ae7e4dc4e6d9",
+            "a0207478a1d0a50e815fb51b9ab96b4d152ae662",
+            "f79a6bd5a2446d667d50a2dfa6c1d40639e13a5b",
+            "ad066e10ce92f36c29c1cba0fd1bef26173945a9",
+            "7f8596ed89d27cd70e760b186030d8083d35cbac",
+            "a5c9f5e1b8e1a09420f7723fe4a407d84461fb03",
+            "5b188a3c3f10a9da8856c31f13b9377760d76980",
+            "7db861799e81a1a828cd14c0f02e357c37e1c81d",
+            "e2d37873a55480168aabe83d3fc2c09f99f1275b",
+            "e65911e3747783051f816560604a0653256773ec"
+        ],
+        "earliest_issue_date": "2021-01-14T15:42:35",
+        "inducing_commit_hash": [
+            "10e7bd27d4b87465a0ab2f32c567eb4efe40ad8c",
+            "aa1f5900cf53f8d48fd4199d4d5051f8a23cb0f4",
+            "a0207478a1d0a50e815fb51b9ab96b4d152ae662",
+            "9afebc1f58bbc3a9c35e84c37dfe96e99b653053"
+        ]
+    },
+    {
+        "id": 24,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "77aef7afeb90e58c27e7b6b0bbd9036a8971e297",
+        "files": [
+            "testing/marionette/components/marionette.js",
+            "testing/marionette/test/unit/test_modal.js",
+            "marionette/modal.js",
+            "marionette/harness/marionette_harness/tests/unit/test_modal_dialogs.py",
+            "testing/marionette/client/marionette_driver/geckoinstance.py",
+            "testing/marionette/modal.js",
+            "testing/marionette/driver.js",
+            "marionette/components/marionette.js"
+        ],
+        "bug_commit_hash": [
+            "330e2831c06d9aef0d0157f003e26219d28c61a6",
+            "35abc54d5bc3a75108d38992afc4ae7e4dc4e6d9",
+            "a0207478a1d0a50e815fb51b9ab96b4d152ae662",
+            "f79a6bd5a2446d667d50a2dfa6c1d40639e13a5b",
+            "ad066e10ce92f36c29c1cba0fd1bef26173945a9",
+            "7f8596ed89d27cd70e760b186030d8083d35cbac",
+            "a5c9f5e1b8e1a09420f7723fe4a407d84461fb03",
+            "5b188a3c3f10a9da8856c31f13b9377760d76980",
+            "7db861799e81a1a828cd14c0f02e357c37e1c81d",
+            "e2d37873a55480168aabe83d3fc2c09f99f1275b",
+            "e65911e3747783051f816560604a0653256773ec"
+        ],
+        "earliest_issue_date": "2021-01-14T15:42:35",
+        "inducing_commit_hash": [
+            "53a6113a29573c017a6a85c9e52e212ec548e1bb",
+            "aa1f5900cf53f8d48fd4199d4d5051f8a23cb0f4"
+        ]
+    },
+    {
+        "id": 25,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "080d19fd8957baaf0e468c47f0d800e48b062a69",
+        "files": [
+            "testing/mozharness/mozharness/mozilla/testing/codecoverage.py",
+            "mozharness/mozharness/mozilla/testing/codecoverage.py"
+        ],
+        "bug_commit_hash": [
+            "fd66374b78a1f58f3e17e201b45bbabff007644d"
+        ],
+        "earliest_issue_date": "2021-04-09T10:55:30",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 26,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "5b40a9aff13d7f34c09c12c3f6d0818e1b234eb5",
+        "files": [
+            "testing/mozharness/mozharness/mozilla/testing/codecoverage.py",
+            "mozharness/mozharness/mozilla/testing/codecoverage.py"
+        ],
+        "bug_commit_hash": [
+            "fd66374b78a1f58f3e17e201b45bbabff007644d"
+        ],
+        "earliest_issue_date": "2021-04-09T10:55:30",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 27,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "e2a721f8f3a8b2ed63f6990d7975e4c5fbfe3df2",
+        "files": [
+            "testing/web-platform/tests/webdriver/tests/execute_async_script/execute_async.py"
+        ],
+        "bug_commit_hash": [
+            "77aef7afeb90e58c27e7b6b0bbd9036a8971e297",
+            "b1bc6ad4ba1bfa917048764fa6460594461c7900",
+            "129f797488b0517fad3b5205c8c1ef58928ec427",
+            "0547d55507300bd14496d1ebe2316e3a6ce390c1"
+        ],
+        "earliest_issue_date": "2021-04-29T16:28:45",
+        "inducing_commit_hash": [
+            "7c5818f1a97dad182a3c89346d7feca43aa50cb4"
+        ]
+    },
+    {
+        "id": 28,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "4280ab8e932b7a27a13bc56199f14eeb7877a317",
+        "files": [
+            "toolkit/components/passwordmgr/test/unit/test_PasswordRulesManager_generatePassword.js"
+        ],
+        "bug_commit_hash": [
+            "a550279700de5c82e49b3aa4b330ec27906245b1",
+            "5a15cf6e47e1598dcae94fe0a8eb0243fee51910",
+            "fdc342cd070fa8fefd4385445ff374795ab1a57b",
+            "7a15a3dacd5fefb002c73e651965e2b0c86ac2c9",
+            "43abd5879ad220b96b4bb47fd36ae2711720b74a"
+        ],
+        "earliest_issue_date": "2021-06-10T08:30:01",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 29,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "74d0c440fc30504e380ee166fdf10e2eedc78365",
+        "files": [
+            "testing/mozharness/scripts/desktop_unittest.py"
+        ],
+        "bug_commit_hash": [
+            "2ae112fd1016e2f0f916b88022d09418016bfe9a"
+        ],
+        "earliest_issue_date": "2021-06-25T17:01:17",
+        "inducing_commit_hash": [
+            "2ae112fd1016e2f0f916b88022d09418016bfe9a"
+        ]
+    },
+    {
+        "id": 30,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "74375895619f048824042e69b4b590cdad38498f",
+        "files": [
+            "cdp/CDP.jsm",
+            "shared/RecommendedPreferences.jsm",
+            "remote/shared/test/xpcshell/test_RecommendedPreferences.js",
+            "remote/shared/RecommendedPreferences.jsm",
+            "webdriver-bidi/WebDriverBiDi.jsm",
+            "remote/webdriver-bidi/WebDriverBiDi.jsm",
+            "remote/cdp/CDP.jsm"
+        ],
+        "bug_commit_hash": [
+            "77ea198334d46583f182c740d87e199c93426529",
+            "1e0a784e02d83d1e0010ccc854345013a8e76901",
+            "2e86c1bd184d1ef239e3bead9ee5c4d516cc630f",
+            "2ebbe954a58d624832da4b434636d9fc54781c11",
+            "8ae33bde2283954114dbb5a28820c205f767e0e1",
+            "5fb6271056f8f54b3e4cccd8ef9f42d48ae58413",
+            "483317cdeb2a7cf64290b113deebbff9e62a6c3f",
+            "c6bfd5b54e1caf6d309279018ce2add2ab03310f",
+            "8851cbd836206560531cea24379e70c3787c6323"
+        ],
+        "earliest_issue_date": "2021-07-12T07:14:13",
+        "inducing_commit_hash": [
+            "f872eda8c42d728351e9c66c29d36d8d4008401b"
+        ]
+    },
+    {
+        "id": 31,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "45da846681e0fabf8d648e501620ede80da4715c",
+        "files": [
+            "cdp/CDP.jsm",
+            "shared/RecommendedPreferences.jsm",
+            "remote/shared/test/xpcshell/test_RecommendedPreferences.js",
+            "remote/shared/RecommendedPreferences.jsm",
+            "webdriver-bidi/WebDriverBiDi.jsm",
+            "remote/webdriver-bidi/WebDriverBiDi.jsm",
+            "remote/cdp/CDP.jsm"
+        ],
+        "bug_commit_hash": [
+            "77ea198334d46583f182c740d87e199c93426529",
+            "1e0a784e02d83d1e0010ccc854345013a8e76901",
+            "2e86c1bd184d1ef239e3bead9ee5c4d516cc630f",
+            "2ebbe954a58d624832da4b434636d9fc54781c11",
+            "8ae33bde2283954114dbb5a28820c205f767e0e1",
+            "5fb6271056f8f54b3e4cccd8ef9f42d48ae58413",
+            "483317cdeb2a7cf64290b113deebbff9e62a6c3f",
+            "c6bfd5b54e1caf6d309279018ce2add2ab03310f",
+            "8851cbd836206560531cea24379e70c3787c6323"
+        ],
+        "earliest_issue_date": "2021-07-12T07:14:13",
+        "inducing_commit_hash": [
+            "3a22018662668c2b765e17a2a26d88102ce0c2db",
+            "3531745a36aa1e633d31f90f40b68d9f8be82aa2"
+        ]
+    },
+    {
+        "id": 32,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "29863b8557d73c2aa0d6dfb9a841ec39f9586c35",
+        "files": [
+            "cdp/CDP.jsm",
+            "shared/RecommendedPreferences.jsm",
+            "remote/shared/test/xpcshell/test_RecommendedPreferences.js",
+            "remote/shared/RecommendedPreferences.jsm",
+            "webdriver-bidi/WebDriverBiDi.jsm",
+            "remote/webdriver-bidi/WebDriverBiDi.jsm",
+            "remote/cdp/CDP.jsm"
+        ],
+        "bug_commit_hash": [
+            "77ea198334d46583f182c740d87e199c93426529",
+            "1e0a784e02d83d1e0010ccc854345013a8e76901",
+            "2e86c1bd184d1ef239e3bead9ee5c4d516cc630f",
+            "2ebbe954a58d624832da4b434636d9fc54781c11",
+            "8ae33bde2283954114dbb5a28820c205f767e0e1",
+            "5fb6271056f8f54b3e4cccd8ef9f42d48ae58413",
+            "483317cdeb2a7cf64290b113deebbff9e62a6c3f",
+            "c6bfd5b54e1caf6d309279018ce2add2ab03310f",
+            "8851cbd836206560531cea24379e70c3787c6323"
+        ],
+        "earliest_issue_date": "2021-07-12T07:14:13",
+        "inducing_commit_hash": [
+            "8851cbd836206560531cea24379e70c3787c6323",
+            "5fb6271056f8f54b3e4cccd8ef9f42d48ae58413",
+            "3a22018662668c2b765e17a2a26d88102ce0c2db",
+            "8ae33bde2283954114dbb5a28820c205f767e0e1",
+            "f872eda8c42d728351e9c66c29d36d8d4008401b"
+        ]
+    },
+    {
+        "id": 33,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "6dbf8b033621891d5c0d53fccadfd672c796179e",
+        "files": [
+            "components/Marionette.jsm",
+            "testing/marionette/harness/marionette_harness/tests/unit/test_cli_arguments.py",
+            "remote/components/Marionette.jsm",
+            "remote/components/RemoteAgent.jsm",
+            "components/RemoteAgent.jsm"
+        ],
+        "bug_commit_hash": [
+            "0bdf905ed3df00e056299d6b3ba89ea2301983fe",
+            "a7f0c83fce404c12a7536843b9a56e5e101ad4d9",
+            "16af717b832728dee6b38f1a2d2328528e7a128d",
+            "1a5255ce556adac2ad9b6decb47487745333aecb",
+            "ca0fd3de16b5c4ee921829ce8a2076c7c8cc43c5",
+            "568ef572517c5df3373da8444e265b69386fc67e"
+        ],
+        "earliest_issue_date": "2021-08-04T16:41:13",
+        "inducing_commit_hash": [
+            "ec3c6f52f953ebd7c4aba7d5610a8992990bd915"
+        ]
+    },
+    {
+        "id": 34,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "3d07faedcc628aa39d998cf9db335494610d7bab",
+        "files": [
+            "testing/web-platform/mozilla/tests/webdriver/new_session/invalid.py",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/request.py",
+            "testing/webdriver/Cargo.toml",
+            "testing/geckodriver/src/main.rs",
+            "testing/web-platform/tests/webdriver/tests/support/defaults.py",
+            "webdriver/src/server.rs",
+            "Cargo.lock",
+            "testing/geckodriver/src/logging.rs",
+            "testing/geckodriver/src/android.rs",
+            "testing/geckodriver/Cargo.toml",
+            "testing/web-platform/tests/tools/wptrunner/wptrunner/executors/pytestrunner/runner.py",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/allow_origins.py",
+            "testing/web-platform/tests/webdriver/tests/support/fixtures.py",
+            "testing/geckodriver/CHANGES.md",
+            "testing/geckodriver/src/capabilities.rs",
+            "testing/geckodriver/doc/Flags.md",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/__init__.py",
+            "testing/webdriver/src/server.rs",
+            "testing/web-platform/mozilla/tests/webdriver/new_session/create.py",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/allow_hosts.py",
+            "testing/web-platform/tests/tools/wptrunner/wptrunner/executors/base.py"
+        ],
+        "bug_commit_hash": [
+            "a628b80b92c7fd12f0858b2a07df54d806e8f314",
+            "ffb36e85faad96e8a4071e8d22b3bd8a9013981b",
+            "4b686a066f62dabfc6c6b773d579e3e7710a5e40",
+            "05769c2be15017fc4bed4283e30a798aac959e10"
+        ],
+        "earliest_issue_date": "2021-09-27T08:06:25",
+        "inducing_commit_hash": [
+            "e0b5fd05698ec4c209c4c5a847bbb8d7eaf0a1c0",
+            "146e485f6c2f7fd2c4561d1aa478bdbdc3810065",
+            "e1e321360c37fa913b586d3702866cb5a3173931",
+            "047883baa97dcb8ad4569eba76026a5394529715",
+            "28575d93c1ba672eeacbf144c9155b7cc976a73f"
+        ]
+    },
+    {
+        "id": 35,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "1c4739a76a20012edaa7da49b94fabc3f94baadb",
+        "files": [
+            "testing/web-platform/mozilla/tests/webdriver/new_session/invalid.py",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/request.py",
+            "testing/webdriver/Cargo.toml",
+            "testing/geckodriver/src/main.rs",
+            "testing/web-platform/tests/webdriver/tests/support/defaults.py",
+            "webdriver/src/server.rs",
+            "Cargo.lock",
+            "testing/geckodriver/src/logging.rs",
+            "testing/geckodriver/src/android.rs",
+            "testing/geckodriver/Cargo.toml",
+            "testing/web-platform/tests/tools/wptrunner/wptrunner/executors/pytestrunner/runner.py",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/allow_origins.py",
+            "testing/web-platform/tests/webdriver/tests/support/fixtures.py",
+            "testing/geckodriver/CHANGES.md",
+            "testing/geckodriver/src/capabilities.rs",
+            "testing/geckodriver/doc/Flags.md",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/__init__.py",
+            "testing/webdriver/src/server.rs",
+            "testing/web-platform/mozilla/tests/webdriver/new_session/create.py",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/allow_hosts.py",
+            "testing/web-platform/tests/tools/wptrunner/wptrunner/executors/base.py"
+        ],
+        "bug_commit_hash": [
+            "a628b80b92c7fd12f0858b2a07df54d806e8f314",
+            "ffb36e85faad96e8a4071e8d22b3bd8a9013981b",
+            "4b686a066f62dabfc6c6b773d579e3e7710a5e40",
+            "05769c2be15017fc4bed4283e30a798aac959e10"
+        ],
+        "earliest_issue_date": "2021-09-27T08:06:25",
+        "inducing_commit_hash": [
+            "39d572c43ac845b9f4ee7f7dba47bee2517f8eea",
+            "e0b5fd05698ec4c209c4c5a847bbb8d7eaf0a1c0",
+            "57095db3ee24caf20b70cf0d93a8db7ab673ccc9",
+            "257e853bd27a665754764bbadb6155e132653b36",
+            "baf3697847f686bea1702047552213628c978537"
+        ]
+    },
+    {
+        "id": 36,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "aa1a47de0b72823cd4ed15165d0edf2e83248861",
+        "files": [
+            "testing/web-platform/mozilla/tests/webdriver/new_session/invalid.py",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/request.py",
+            "testing/webdriver/Cargo.toml",
+            "testing/geckodriver/src/main.rs",
+            "testing/web-platform/tests/webdriver/tests/support/defaults.py",
+            "webdriver/src/server.rs",
+            "Cargo.lock",
+            "testing/geckodriver/src/logging.rs",
+            "testing/geckodriver/src/android.rs",
+            "testing/geckodriver/Cargo.toml",
+            "testing/web-platform/tests/tools/wptrunner/wptrunner/executors/pytestrunner/runner.py",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/allow_origins.py",
+            "testing/web-platform/tests/webdriver/tests/support/fixtures.py",
+            "testing/geckodriver/CHANGES.md",
+            "testing/geckodriver/src/capabilities.rs",
+            "testing/geckodriver/doc/Flags.md",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/__init__.py",
+            "testing/webdriver/src/server.rs",
+            "testing/web-platform/mozilla/tests/webdriver/new_session/create.py",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/allow_hosts.py",
+            "testing/web-platform/tests/tools/wptrunner/wptrunner/executors/base.py"
+        ],
+        "bug_commit_hash": [
+            "a628b80b92c7fd12f0858b2a07df54d806e8f314",
+            "ffb36e85faad96e8a4071e8d22b3bd8a9013981b",
+            "4b686a066f62dabfc6c6b773d579e3e7710a5e40",
+            "05769c2be15017fc4bed4283e30a798aac959e10"
+        ],
+        "earliest_issue_date": "2021-09-27T08:06:25",
+        "inducing_commit_hash": [
+            "a2e83c0fd00079c3315cc3f00bc6c94f758eb3d1",
+            "b9faeac9e2bba2bad9cfd4f839c6eae1b1673a9c",
+            "b835aad75be5941eb47d41810ce0d30181111fe2",
+            "5a7afa01886b0353a6454a261e14f5a8d655f8a6",
+            "05769c2be15017fc4bed4283e30a798aac959e10",
+            "5738813a19a22c64c3af43469162177d943d1d70",
+            "ffb36e85faad96e8a4071e8d22b3bd8a9013981b",
+            "0be55bb594ebcf333a6afacb1c902f15c0685dac",
+            "515ac5f6d493aad55a48e556e979c9eebda0d6db",
+            "4b686a066f62dabfc6c6b773d579e3e7710a5e40",
+            "a2b32f65e9bf4bf950584dba90aaa7c2583f310f",
+            "0a6da2c399806690f86ee9e42dacf8d113e18189"
+        ]
+    },
+    {
+        "id": 37,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "b9af68a69d54015fb1ce7ddb67f0b3aaa34a6ca4",
+        "files": [
+            "testing/web-platform/mozilla/tests/webdriver/new_session/invalid.py",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/request.py",
+            "testing/webdriver/Cargo.toml",
+            "testing/geckodriver/src/main.rs",
+            "testing/web-platform/tests/webdriver/tests/support/defaults.py",
+            "webdriver/src/server.rs",
+            "Cargo.lock",
+            "testing/geckodriver/src/logging.rs",
+            "testing/geckodriver/src/android.rs",
+            "testing/geckodriver/Cargo.toml",
+            "testing/web-platform/tests/tools/wptrunner/wptrunner/executors/pytestrunner/runner.py",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/allow_origins.py",
+            "testing/web-platform/tests/webdriver/tests/support/fixtures.py",
+            "testing/geckodriver/CHANGES.md",
+            "testing/geckodriver/src/capabilities.rs",
+            "testing/geckodriver/doc/Flags.md",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/__init__.py",
+            "testing/webdriver/src/server.rs",
+            "testing/web-platform/mozilla/tests/webdriver/new_session/create.py",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/allow_hosts.py",
+            "testing/web-platform/tests/tools/wptrunner/wptrunner/executors/base.py"
+        ],
+        "bug_commit_hash": [
+            "a628b80b92c7fd12f0858b2a07df54d806e8f314",
+            "ffb36e85faad96e8a4071e8d22b3bd8a9013981b",
+            "4b686a066f62dabfc6c6b773d579e3e7710a5e40",
+            "05769c2be15017fc4bed4283e30a798aac959e10"
+        ],
+        "earliest_issue_date": "2021-09-27T08:06:25",
+        "inducing_commit_hash": [
+            "474ef36d7dcb9386c5a2806e473881d2bf9e60c4",
+            "e0b5fd05698ec4c209c4c5a847bbb8d7eaf0a1c0",
+            "25215bf3400753045db350f5bb26975e226a167f",
+            "f31cd66eaa57281f471b1bafcf6cd71f72952f2c",
+            "7247b0e6772a8fd0a60e5ab2ad44130fdfe28ebc",
+            "a2b32f65e9bf4bf950584dba90aaa7c2583f310f",
+            "fa5eb5418dc881ab24f4a0b25d41d9001eab08f2"
+        ]
+    },
+    {
+        "id": 38,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "54da9fe4ff24b575701cf4392e907d15455bbdee",
+        "files": [
+            "testing/web-platform/mozilla/tests/webdriver/new_session/invalid.py",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/request.py",
+            "testing/webdriver/Cargo.toml",
+            "testing/geckodriver/src/main.rs",
+            "testing/web-platform/tests/webdriver/tests/support/defaults.py",
+            "webdriver/src/server.rs",
+            "Cargo.lock",
+            "testing/geckodriver/src/logging.rs",
+            "testing/geckodriver/src/android.rs",
+            "testing/geckodriver/Cargo.toml",
+            "testing/web-platform/tests/tools/wptrunner/wptrunner/executors/pytestrunner/runner.py",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/allow_origins.py",
+            "testing/web-platform/tests/webdriver/tests/support/fixtures.py",
+            "testing/geckodriver/CHANGES.md",
+            "testing/geckodriver/src/capabilities.rs",
+            "testing/geckodriver/doc/Flags.md",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/__init__.py",
+            "testing/webdriver/src/server.rs",
+            "testing/web-platform/mozilla/tests/webdriver/new_session/create.py",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/allow_hosts.py",
+            "testing/web-platform/tests/tools/wptrunner/wptrunner/executors/base.py"
+        ],
+        "bug_commit_hash": [
+            "a628b80b92c7fd12f0858b2a07df54d806e8f314",
+            "ffb36e85faad96e8a4071e8d22b3bd8a9013981b",
+            "4b686a066f62dabfc6c6b773d579e3e7710a5e40",
+            "05769c2be15017fc4bed4283e30a798aac959e10"
+        ],
+        "earliest_issue_date": "2021-09-27T08:06:25",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 39,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "35f5da0b1558bdc9355ee931b8dfa3f286bdfe26",
+        "files": [
+            "testing/web-platform/mozilla/tests/webdriver/new_session/invalid.py",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/request.py",
+            "testing/webdriver/Cargo.toml",
+            "testing/geckodriver/src/main.rs",
+            "testing/web-platform/tests/webdriver/tests/support/defaults.py",
+            "webdriver/src/server.rs",
+            "Cargo.lock",
+            "testing/geckodriver/src/logging.rs",
+            "testing/geckodriver/src/android.rs",
+            "testing/geckodriver/Cargo.toml",
+            "testing/web-platform/tests/tools/wptrunner/wptrunner/executors/pytestrunner/runner.py",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/allow_origins.py",
+            "testing/web-platform/tests/webdriver/tests/support/fixtures.py",
+            "testing/geckodriver/CHANGES.md",
+            "testing/geckodriver/src/capabilities.rs",
+            "testing/geckodriver/doc/Flags.md",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/__init__.py",
+            "testing/webdriver/src/server.rs",
+            "testing/web-platform/mozilla/tests/webdriver/new_session/create.py",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/allow_hosts.py",
+            "testing/web-platform/tests/tools/wptrunner/wptrunner/executors/base.py"
+        ],
+        "bug_commit_hash": [
+            "a628b80b92c7fd12f0858b2a07df54d806e8f314",
+            "ffb36e85faad96e8a4071e8d22b3bd8a9013981b",
+            "4b686a066f62dabfc6c6b773d579e3e7710a5e40",
+            "05769c2be15017fc4bed4283e30a798aac959e10"
+        ],
+        "earliest_issue_date": "2021-09-27T08:06:25",
+        "inducing_commit_hash": [
+            "05769c2be15017fc4bed4283e30a798aac959e10",
+            "a2b32f65e9bf4bf950584dba90aaa7c2583f310f",
+            "a2e83c0fd00079c3315cc3f00bc6c94f758eb3d1"
+        ]
+    },
+    {
+        "id": 40,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "d24c79260c7838984cae461c246f7a69fd53ae19",
+        "files": [
+            "testing/web-platform/mozilla/tests/webdriver/new_session/invalid.py",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/request.py",
+            "testing/webdriver/Cargo.toml",
+            "testing/geckodriver/src/main.rs",
+            "testing/web-platform/tests/webdriver/tests/support/defaults.py",
+            "webdriver/src/server.rs",
+            "Cargo.lock",
+            "testing/geckodriver/src/logging.rs",
+            "testing/geckodriver/src/android.rs",
+            "testing/geckodriver/Cargo.toml",
+            "testing/web-platform/tests/tools/wptrunner/wptrunner/executors/pytestrunner/runner.py",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/allow_origins.py",
+            "testing/web-platform/tests/webdriver/tests/support/fixtures.py",
+            "testing/geckodriver/CHANGES.md",
+            "testing/geckodriver/src/capabilities.rs",
+            "testing/geckodriver/doc/Flags.md",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/__init__.py",
+            "testing/webdriver/src/server.rs",
+            "testing/web-platform/mozilla/tests/webdriver/new_session/create.py",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/allow_hosts.py",
+            "testing/web-platform/tests/tools/wptrunner/wptrunner/executors/base.py"
+        ],
+        "bug_commit_hash": [
+            "a628b80b92c7fd12f0858b2a07df54d806e8f314",
+            "ffb36e85faad96e8a4071e8d22b3bd8a9013981b",
+            "4b686a066f62dabfc6c6b773d579e3e7710a5e40",
+            "05769c2be15017fc4bed4283e30a798aac959e10"
+        ],
+        "earliest_issue_date": "2021-09-27T08:06:25",
+        "inducing_commit_hash": [
+            "e0b5fd05698ec4c209c4c5a847bbb8d7eaf0a1c0"
+        ]
+    },
+    {
+        "id": 41,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "a5c1a3202b9c07248187549986af3aac5bfe4138",
+        "files": [
+            "taskgraph/manifests/firefox_candidates.yml",
+            "testing/mozharness/configs/releases/bouncer_firefox_nightly.py",
+            "taskcluster/taskgraph/manifests/firefox_candidates.yml"
+        ],
+        "bug_commit_hash": [
+            "6d76fe8c1100f2205c011ec98f85d61d66eb106b",
+            "1625cb31db199609d65f944d497647f0c6245d02",
+            "62ee390e544c79b10526bd0b6ff4938a10706bb1"
+        ],
+        "earliest_issue_date": "2021-10-05T09:17:51",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 42,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "3a9373e7f8dc5b33a7eb9bd54f8b27901f2237c7",
+        "files": [
+            "taskgraph/manifests/firefox_candidates.yml",
+            "testing/mozharness/configs/releases/bouncer_firefox_nightly.py",
+            "taskcluster/taskgraph/manifests/firefox_candidates.yml"
+        ],
+        "bug_commit_hash": [
+            "6d76fe8c1100f2205c011ec98f85d61d66eb106b",
+            "1625cb31db199609d65f944d497647f0c6245d02",
+            "62ee390e544c79b10526bd0b6ff4938a10706bb1"
+        ],
+        "earliest_issue_date": "2021-10-05T09:17:51",
+        "inducing_commit_hash": [
+            "62ee390e544c79b10526bd0b6ff4938a10706bb1"
+        ]
+    },
+    {
+        "id": 43,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "335f0719bb335d87e67073118722b47f9e004ee2",
+        "files": [
+            "testing/raptor/raptor/browsertime/base.py"
+        ],
+        "bug_commit_hash": [
+            "3e6f8118d41b1373751ba415efee4d07be66f5b6"
+        ],
+        "earliest_issue_date": "2021-10-09T09:32:01",
+        "inducing_commit_hash": [
+            "3e6f8118d41b1373751ba415efee4d07be66f5b6"
+        ]
+    },
+    {
+        "id": 44,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "3b547b462e407b1b369ba6605c8dcd6306ff4649",
+        "files": [
+            "testing/perfdocs/generated/raptor.rst",
+            "taskcluster/ci/test/browsertime-desktop.yml"
+        ],
+        "bug_commit_hash": [
+            "61406f8711fed5d56df251ee4e46abe59afc4424"
+        ],
+        "earliest_issue_date": "2021-10-21T09:10:47",
+        "inducing_commit_hash": [
+            "363727e62b98358d8a49515f8cc6d8d7f1426919",
+            "0c9a12913eecb6d29b15b37ce78042aeab7e9c3f"
+        ]
+    },
+    {
+        "id": 45,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "3d4510d680129dfa11c9070ed5cb54775812a6b6",
+        "files": [
+            "js/src/wasm/WasmCode.cpp",
+            "src/wasm/WasmCode.cpp"
+        ],
+        "bug_commit_hash": [
+            "c843693f20b16578a47566b3cf4dc13b9c0ed363",
+            "49deeef4c9fac1dacaa63bea0ae398df5b66cbb2",
+            "cadd330ba7d03204abc673aa721bba9982fd8a92",
+            "629046382d4262f034fc21c55db096008a4cce19",
+            "107aad8ece45cd456cc19ab2321d91e7900057c3",
+            "f3fba8be9f3d97f16e4a67c20281b61caaa96131",
+            "8de3dda6d3b816fbe6358340bac40f73fb4fb665",
+            "53fb382b7492530ebe0b606faa2419d02d2bd983",
+            "4152f663e5dd0e9054d5f240c7c947428448880e",
+            "978ed2e8bfc6e7ceb1662b7fe7203ee41efbad67",
+            "5350813451635dc2171260a9c7eab86063e76242",
+            "77af2b5185e23d1baab7e4f218694554a05d7be5",
+            "150c39808bf299b65b539000454d4e7e446948bb",
+            "4e7a786f8816b34dda848fd3c93bb754d1868490"
+        ],
+        "earliest_issue_date": "2021-12-08T10:39:01",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 46,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "db60d72e871dc933b3c7b66fc252e56a9762eb7d",
+        "files": [
+            "toolkit/components/telemetry/tests/unit/test_TelemetrySessionGIFFT.js",
+            "components/telemetry/tests/unit/test_TelemetrySessionGIFFT.js"
+        ],
+        "bug_commit_hash": [
+            "0ecdc1748df4d412d8d5dd46aa0b6c775cbebbc1"
+        ],
+        "earliest_issue_date": "2022-02-08T22:33:50",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 47,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "e0ecdadc6885e70247692397b7f11245d1fabd8e",
+        "files": [
+            "themes/shared/pictureinpicture/player.css",
+            "toolkit/themes/shared/pictureinpicture/player.css"
+        ],
+        "bug_commit_hash": [
+            "cd9f1dec933fa345e7bfb73c3cd77661c1bd4d6d"
+        ],
+        "earliest_issue_date": "2022-05-09T13:46:31",
+        "inducing_commit_hash": [
+            "4e14241b1849ec2f1cd10bfe571bd4cfa13bbf8d"
+        ]
+    },
+    {
+        "id": 48,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "eac03460b5c80f9cfd476ba32769dfb58f518668",
+        "files": [
+            "Cargo.lock",
+            "third_party/rust/origin-trial-token/lib.rs",
+            "dom/origin-trials/OriginTrials.cpp",
+            "third_party/rust/origin-trial-token/Cargo.toml",
+            "third_party/rust/origin-trial-token/.cargo-checksum.json",
+            "dom/crypto/CryptoKey.cpp",
+            "dom/origin-trials/ffi/lib.rs",
+            "dom/crypto/WebCryptoCommon.h"
+        ],
+        "bug_commit_hash": [
+            "b0cc5456eb263ac487c49dc7b9db74b44b233e98"
+        ],
+        "earliest_issue_date": "2022-05-24T05:15:22",
+        "inducing_commit_hash": [
+            "52ad839c96d41c9f2259dfa1b9314cecef6cf6a1",
+            "5db096e5431c0167e59ca58bc22d9582a73236c9",
+            "3bbcfc812cda6d821eee888b38f153e9c1d137cf",
+            "ead613954650ceae41255b35f2e5a356b420e7a5",
+            "e0b5fd05698ec4c209c4c5a847bbb8d7eaf0a1c0",
+            "3a5cfad4a9dcaf37267029de9927c2b877df6850",
+            "527524f0a4c24355d31763e7b195ea8f2d174535"
+        ]
+    },
+    {
+        "id": 49,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "f7546e76a8de564a33ee24b3dcfe431bbdc9aeef",
+        "files": [
+            "Cargo.lock",
+            "third_party/rust/origin-trial-token/lib.rs",
+            "dom/origin-trials/OriginTrials.cpp",
+            "third_party/rust/origin-trial-token/Cargo.toml",
+            "third_party/rust/origin-trial-token/.cargo-checksum.json",
+            "dom/crypto/CryptoKey.cpp",
+            "dom/origin-trials/ffi/lib.rs",
+            "dom/crypto/WebCryptoCommon.h"
+        ],
+        "bug_commit_hash": [
+            "b0cc5456eb263ac487c49dc7b9db74b44b233e98"
+        ],
+        "earliest_issue_date": "2022-05-24T05:15:22",
+        "inducing_commit_hash": [
+            "08688f572e84b4722f85b6d59cd9299f65336b03"
+        ]
+    },
+    {
+        "id": 50,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "7125ca5c7724e33190b16c75eb7921086126476f",
+        "files": [
+            "Cargo.lock",
+            "third_party/rust/origin-trial-token/lib.rs",
+            "dom/origin-trials/OriginTrials.cpp",
+            "third_party/rust/origin-trial-token/Cargo.toml",
+            "third_party/rust/origin-trial-token/.cargo-checksum.json",
+            "dom/crypto/CryptoKey.cpp",
+            "dom/origin-trials/ffi/lib.rs",
+            "dom/crypto/WebCryptoCommon.h"
+        ],
+        "bug_commit_hash": [
+            "b0cc5456eb263ac487c49dc7b9db74b44b233e98"
+        ],
+        "earliest_issue_date": "2022-05-24T05:15:22",
+        "inducing_commit_hash": [
+            "ead613954650ceae41255b35f2e5a356b420e7a5",
+            "3a5cfad4a9dcaf37267029de9927c2b877df6850",
+            "527524f0a4c24355d31763e7b195ea8f2d174535"
+        ]
+    },
+    {
+        "id": 51,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "f5783b5edaa4c6e13dae9e53bc775370a81eacd4",
+        "files": [
+            "Cargo.lock",
+            "third_party/rust/origin-trial-token/lib.rs",
+            "dom/origin-trials/OriginTrials.cpp",
+            "third_party/rust/origin-trial-token/Cargo.toml",
+            "third_party/rust/origin-trial-token/.cargo-checksum.json",
+            "dom/crypto/CryptoKey.cpp",
+            "dom/origin-trials/ffi/lib.rs",
+            "dom/crypto/WebCryptoCommon.h"
+        ],
+        "bug_commit_hash": [
+            "b0cc5456eb263ac487c49dc7b9db74b44b233e98"
+        ],
+        "earliest_issue_date": "2022-05-24T05:15:22",
+        "inducing_commit_hash": [
+            "f4db1af78525369ec5d8a4ef3e4986f6c7034d6c",
+            "52ad839c96d41c9f2259dfa1b9314cecef6cf6a1",
+            "861e2a82832bc8a1e0ae6621d127d16fc0bf60d4",
+            "b2acbb3f762320db94f7afc0301746997f5069b9",
+            "603cbf3a0988353c830ea9dfd7252cf62314bc0e"
+        ]
+    },
+    {
+        "id": 52,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "aff9b5c6623bfd9f46edcacfa9554a4fa783daed",
+        "files": [
+            "python/mozboot/mozboot/mach_commands.py",
+            "python/mozboot/mozboot/bootstrap.py",
+            "python/mozboot/mozboot/debian.py"
+        ],
+        "bug_commit_hash": [
+            "7594097e3346b79a2955d43cbc2ac791c86f14c6"
+        ],
+        "earliest_issue_date": "2022-06-23T11:07:52",
+        "inducing_commit_hash": [
+            "7594097e3346b79a2955d43cbc2ac791c86f14c6"
+        ]
+    },
+    {
+        "id": 53,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "c663396560c47bd0bfd74f4e80123b548287352b",
+        "files": [
+            "src/jit/shared/CodeGenerator-shared.cpp",
+            "src/jit/arm64/CodeGenerator-arm64.cpp",
+            "js/src/jit/shared/CodeGenerator-shared.cpp",
+            "js/src/jit-test/tests/wasm/bug1776358.js"
+        ],
+        "bug_commit_hash": [
+            "8a42b94a0be817e1bcd2de0ed6ca0755c40ddd68"
+        ],
+        "earliest_issue_date": "2022-06-24T06:48:13",
+        "inducing_commit_hash": [
+            "8a42b94a0be817e1bcd2de0ed6ca0755c40ddd68",
+            "f54483a68f497e985e61362dbf84b7fda31da46c"
+        ]
+    },
+    {
+        "id": 54,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "5218233fca4a431c5ee79da06ac544dd0a3d79f1",
+        "files": [
+            "dom/html/HTMLLinkElement.cpp"
+        ],
+        "bug_commit_hash": [
+            "fab882fce38094d1a1559f3242d19d4039fdf579"
+        ],
+        "earliest_issue_date": "2022-06-30T13:46:24",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 55,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "b3acfb0193219bd9400afa42ca8d0f15413d5c95",
+        "files": [
+            "dom/webidl/IDBObjectStore.webidl",
+            "dom/webidl/IDBIndex.webidl",
+            "dom/webidl/IDBDatabase.webidl",
+            "dom/webidl/IDBCursor.webidl",
+            "dom/webidl/IDBTransaction.webidl",
+            "dom/base/test/chrome/file_hide_in_pbmode.js"
+        ],
+        "bug_commit_hash": [
+            "5f3cff2d369d224c1348de6a4643d6522e4f7345",
+            "3a35f62422dc3f40a008dc5cdbee1d54b839459e",
+            "16313fa1e01038ab971ecac1847eddd896d3375c",
+            "235e7fc40ca0b8889682e2d9f214cae13847d422",
+            "375e96e34c0ce764fb474a4c34a20fc3c9d58766",
+            "06646c0cc75a2ece6a90a915190df6b395d04de5",
+            "95297ec48d99868f60f5df01c94a537901bb9a43",
+            "99109e0a25230e79f3f41038ff96b1f69dd44222",
+            "806b59d1d5ecd4365967639e5bb63261faf51dad"
+        ],
+        "earliest_issue_date": "2022-07-01T07:38:15",
+        "inducing_commit_hash": [
+            "d35bab289befbbfff92bd8c58f5b0ab2677b0fbe"
+        ]
+    },
+    {
+        "id": 56,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "d22e776efab5b868cf429e1f87a0feed0ff752d8",
+        "files": [
+            "ci/test/browsertime-desktop.yml",
+            "taskcluster/ci/test/browsertime-desktop.yml"
+        ],
+        "bug_commit_hash": [
+            "48802191e2a4893259840cf00ece635321c514ad",
+            "a0a05ba7f8a03ca2207d6cf92dc939994b013988",
+            "5b9cc399c32c04acf2b49ff1cdcb947e7a9945d3",
+            "e7e291e54d10f938348c512adfa2dd3d7325c33c"
+        ],
+        "earliest_issue_date": "2022-07-10T08:12:32",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 57,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "0f4f85bf548777c9ee0c7912d405f9b952bb50f7",
+        "files": [
+            "ci/test/browsertime-desktop.yml",
+            "taskcluster/ci/test/browsertime-desktop.yml"
+        ],
+        "bug_commit_hash": [
+            "48802191e2a4893259840cf00ece635321c514ad",
+            "a0a05ba7f8a03ca2207d6cf92dc939994b013988",
+            "5b9cc399c32c04acf2b49ff1cdcb947e7a9945d3",
+            "e7e291e54d10f938348c512adfa2dd3d7325c33c"
+        ],
+        "earliest_issue_date": "2022-07-10T08:12:32",
+        "inducing_commit_hash": [
+            "5340e9ffcc7760db1c6dfcb20493783acb938acf"
+        ]
+    },
+    {
+        "id": 58,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "47c9701fbf592d111264f4f13b9e2107ff4af4e9",
+        "files": [
+            "accessible/base/nsAccessibilityService.cpp"
+        ],
+        "bug_commit_hash": [
+            "ad6ed241ee8eef93d318a0826c8652975d5e3112",
+            "5fc7fade343ae87b454d1738c2180b679bc1adc7",
+            "1c1c253bb59e47d5493bf86ad86db71f11eaafed",
+            "c049c52313ad48b02f58f6bb0135e76327fb56f2",
+            "90e1f03c3c8247f75fdfb73b74953b90230affb6",
+            "ebeccd9e9a0b60435374db72369c1fc430e98e7c",
+            "bc46b09c7c033d45f321f6d309e9396fbaf1de24",
+            "2cbe4175fe8d8bb078a0456f866b3d9249486562",
+            "9b4725264a055295f7ef5046ccf4deb2bb94606c"
+        ],
+        "earliest_issue_date": "2022-07-12T20:32:50",
+        "inducing_commit_hash": [
+            "9b4725264a055295f7ef5046ccf4deb2bb94606c"
+        ]
+    },
+    {
+        "id": 59,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "3db6f3cb17cc38326ab01ea2fda8128cdd6a0cc5",
+        "files": [
+            "gfx/wr/webrender/src/scene_building.rs"
+        ],
+        "bug_commit_hash": [
+            "4a649fe98d72c4a004cdd62a2af54c3e49ab97b7"
+        ],
+        "earliest_issue_date": "2022-07-13T11:02:29",
+        "inducing_commit_hash": [
+            "4a649fe98d72c4a004cdd62a2af54c3e49ab97b7",
+            "741e4631ad0c49621b74c7782318dabf417c581a"
+        ]
+    },
+    {
+        "id": 60,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "8350109c7556a6ea2b170ef8342bfc69f9442b7b",
+        "files": [
+            "components/osfile/osfile.jsm",
+            "toolkit/components/terminator/TerminatorTelemetry.jsm",
+            "components/terminator/TerminatorTelemetry.jsm"
+        ],
+        "bug_commit_hash": [
+            "3e67ed2191aeb4844f64a83e94160b5860e7ebf4"
+        ],
+        "earliest_issue_date": "2022-07-15T12:34:17",
+        "inducing_commit_hash": [
+            "3e67ed2191aeb4844f64a83e94160b5860e7ebf4",
+            "48b3a01a317ab529b7a283bc184ad4c036f1f5c3"
+        ]
+    },
+    {
+        "id": 61,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "5891f50a9a1feefabf0de6c05661d99f7af8fca7",
+        "files": [
+            "components/osfile/osfile.jsm",
+            "toolkit/components/terminator/TerminatorTelemetry.jsm",
+            "components/terminator/TerminatorTelemetry.jsm"
+        ],
+        "bug_commit_hash": [
+            "3e67ed2191aeb4844f64a83e94160b5860e7ebf4"
+        ],
+        "earliest_issue_date": "2022-07-15T12:34:17",
+        "inducing_commit_hash": [
+            "48b3a01a317ab529b7a283bc184ad4c036f1f5c3"
+        ]
+    },
+    {
+        "id": 62,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "39c2f87a1acf619ccf758555281930157f73c032",
+        "files": [
+            "components/osfile/osfile.jsm",
+            "toolkit/components/terminator/TerminatorTelemetry.jsm",
+            "components/terminator/TerminatorTelemetry.jsm"
+        ],
+        "bug_commit_hash": [
+            "3e67ed2191aeb4844f64a83e94160b5860e7ebf4"
+        ],
+        "earliest_issue_date": "2022-07-15T12:34:17",
+        "inducing_commit_hash": [
+            "48b3a01a317ab529b7a283bc184ad4c036f1f5c3"
+        ]
+    },
+    {
+        "id": 63,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "23cf25c8742f8e432e8d714024ab222bc5e2860f",
+        "files": [
+            "components/osfile/osfile.jsm",
+            "toolkit/components/terminator/TerminatorTelemetry.jsm",
+            "components/terminator/TerminatorTelemetry.jsm"
+        ],
+        "bug_commit_hash": [
+            "3e67ed2191aeb4844f64a83e94160b5860e7ebf4"
+        ],
+        "earliest_issue_date": "2022-07-15T12:34:17",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 64,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "d1fa6d509e8bc1ec246819adc77f914654463cb5",
+        "files": [
+            "components/osfile/osfile.jsm",
+            "toolkit/components/terminator/TerminatorTelemetry.jsm",
+            "components/terminator/TerminatorTelemetry.jsm"
+        ],
+        "bug_commit_hash": [
+            "3e67ed2191aeb4844f64a83e94160b5860e7ebf4"
+        ],
+        "earliest_issue_date": "2022-07-15T12:34:17",
+        "inducing_commit_hash": [
+            "3303ef874c05f56f7e46d9aa281f4e4e64cf8342",
+            "48b3a01a317ab529b7a283bc184ad4c036f1f5c3"
+        ]
+    },
+    {
+        "id": 65,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "f3339f264b3c0b8e4179ea5339bdf08eb8341343",
+        "files": [
+            "components/osfile/osfile.jsm",
+            "toolkit/components/terminator/TerminatorTelemetry.jsm",
+            "components/terminator/TerminatorTelemetry.jsm"
+        ],
+        "bug_commit_hash": [
+            "3e67ed2191aeb4844f64a83e94160b5860e7ebf4"
+        ],
+        "earliest_issue_date": "2022-07-15T12:34:17",
+        "inducing_commit_hash": [
+            "3303ef874c05f56f7e46d9aa281f4e4e64cf8342",
+            "48b3a01a317ab529b7a283bc184ad4c036f1f5c3"
+        ]
+    },
+    {
+        "id": 66,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "fe58bb81f00259bfc60215a83af77f2ebcd311e5",
+        "files": [
+            "base/nsEventShell.cpp",
+            "base/NotificationController.cpp",
+            "base/nsAccUtils.cpp",
+            "accessible/base/nsAccessibilityService.cpp",
+            "accessible/base/nsAccessibilityService.h",
+            "android/AccessibleWrap.cpp"
+        ],
+        "bug_commit_hash": [
+            "30ac9920133c983acfd03c5f442d6789a9a687c8"
+        ],
+        "earliest_issue_date": "2022-07-18T08:32:46",
+        "inducing_commit_hash": [
+            "9b4725264a055295f7ef5046ccf4deb2bb94606c"
+        ]
+    },
+    {
+        "id": 67,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "b2e67dca2fe2e704db1b61e53ef8cdb4893dca9f",
+        "files": [
+            "gfx/thebes/gfxFcPlatformFontList.h",
+            "gfx/thebes/gfxFT2FontBase.h",
+            "gfx/thebes/gfxMacFont.h",
+            "gfx/thebes/gfxFontEntry.cpp",
+            "gfx/thebes/gfxPlatformFontList.cpp",
+            "gfx/thebes/gfxFT2Fonts.h",
+            "gfx/thebes/gfxFont.h",
+            "gfx/thebes/gfxFont.cpp",
+            "gfx/thebes/gfxGDIFont.h",
+            "gfx/thebes/gfxDWriteFonts.h",
+            "gfx/thebes/gfxPlatform.cpp"
+        ],
+        "bug_commit_hash": [
+            "1d756c0074600542d72db8de38e2dd465b8d1229",
+            "37596e385dd22905ad3935e91e2686ff010b1024"
+        ],
+        "earliest_issue_date": "2022-07-19T11:33:07",
+        "inducing_commit_hash": [
+            "f04e19bdf40cec84e1d122a2bcdfbbf28343df48",
+            "428e73fa4db5bb0998b25609e1142b0ea596f1ad",
+            "ed36a99d607d6ec933fda4c9330f7e9917cea918",
+            "7d7be51e6e820693919ca33c5e1c4e76ea755e16",
+            "33a620765aa555892c56a6d2aad2573a4811e9e7",
+            "280391fc49385affe12759eb0dc40465480d6c4c",
+            "bfea0d0c88b397aaf8b5cbb2d28076fbefa9f247",
+            "ff7027b05dc1c1618811bed39eba87197e5965fb",
+            "1d60689a686147ff7536772fff60363cd2f47628",
+            "5ad82d30f13534ae8bd029a43c56571d4ab56ad1",
+            "c9a0453e98c1247878512629e21066b80527fdfe",
+            "0a461a00a956d67a40cf42d57aae6ba8d765dab9",
+            "5ad844b8554eff98660308cec21cea0f2fadbf36",
+            "fb3ae4c6f4989ed25b9fdaa771a323413b1301be",
+            "bcc1a6589018052779721453c0028769a59e5947",
+            "3b94feb57df613db9abcad98e2e8274889e883fd",
+            "4b920d593828fa56fb963f8e8ada53924310db56",
+            "920d2fd8674d843c09c7371c77d83908677b0ee4",
+            "bf991de8786fc6096498e40ada3e3c310e6e2581",
+            "87efd482b2f693807b156ac724616efadf0b7b9b",
+            "1d756c0074600542d72db8de38e2dd465b8d1229",
+            "d24ffd04afb02184591a97ce9d5e0164197548e0",
+            "3a97a16d01ce0002a58ff954542d92868639d606",
+            "b8250ff326464362e19a1d42c2020d69172a2f07",
+            "d38f479513afe5f0d8141690e44d681992d524c4",
+            "578477c509f9cceed4703060db0850204a849a3e",
+            "a1d87741c81a9a03bdb103572f62cf202fab6493",
+            "151a3694bd83983ec8adca77cbabfe7100e35e03",
+            "7b69b4a605fb8d256b86031a5cf881739d9b1764"
+        ]
+    },
+    {
+        "id": 68,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "95150bdd21e06b613857d186da22cc60ed53d8f3",
+        "files": [
+            "python/mozboot/mozboot/opensuse.py",
+            "python/mozboot/mozboot/base.py",
+            "mozboot/mozboot/opensuse.py",
+            "python/mozboot/mozboot/debian.py",
+            "mozboot/mozboot/base.py",
+            "mozboot/mozboot/mach_commands.py",
+            "mozboot/mozboot/bootstrap.py",
+            "mozboot/bin/bootstrap.py"
+        ],
+        "bug_commit_hash": [
+            "e3278c2d343edec925e53e141abe7b2c2686e0c1"
+        ],
+        "earliest_issue_date": "2022-07-19T14:06:20",
+        "inducing_commit_hash": [
+            "e3278c2d343edec925e53e141abe7b2c2686e0c1",
+            "866f16384e94573fd065ab40d4c869aee7f27e46",
+            "5ce9ac29e7e50d71747d3a1a53f0e53a9c05b5b5",
+            "40e8a817fbedf8d675308d9b22129e2cc93ac63c",
+            "7127ceb1d772536ad3643e39da19377d429f319a",
+            "434cde07d5c98d52da7662a77b62fa81fcccb9c2"
+        ]
+    },
+    {
+        "id": 69,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "86b467b177aab38089c719e536d152d047023058",
+        "files": [
+            "components/extensions/test/xpcshell/test_ext_native_messaging.js",
+            "toolkit/components/extensions/test/xpcshell/test_ext_native_messaging.js"
+        ],
+        "bug_commit_hash": [
+            "17d5e90a2a844f971f5bbffbdb79f8a74682fa50"
+        ],
+        "earliest_issue_date": "2022-07-19T14:53:41",
+        "inducing_commit_hash": [
+            "17d5e90a2a844f971f5bbffbdb79f8a74682fa50"
+        ]
+    },
+    {
+        "id": 70,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "f07b2f3c0291cad438126537b2ef1dd79ddc8e20",
+        "files": [
+            "dom/media/test/test_video_low_power_telemetry.html"
+        ],
+        "bug_commit_hash": [
+            "09ecd48d8adb93b5bdd8783e485464a1312b3c28",
+            "961d24ad1dda4bb5117326c63dc7f066e29e0ef1"
+        ],
+        "earliest_issue_date": "2022-07-22T13:03:15",
+        "inducing_commit_hash": [
+            "90cf5d7634ed177e1b0ce8cb1bffa6f9cceed391"
+        ]
+    },
+    {
+        "id": 71,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "fe17705618d4681cbc7dd6af129737433acbd303",
+        "files": [
+            "build/mozmemory_wrap.cpp",
+            "memory/build/mozjemalloc.cpp",
+            "build/mozjemalloc.cpp"
+        ],
+        "bug_commit_hash": [
+            "65e53422d36ab3cd93b1dd0c9b03ffd893cabe45",
+            "fa11d55c33efa90cf84768bc99974b13140f9e5c",
+            "ffc089af9a9a149c6f7f0c7d5f7529017576adb7",
+            "df963fcf9afe678e4541bc1f26db760cc5b8be58",
+            "cf4815189ccf1bc0f552b49ccac4d9f159b4bce3",
+            "823194d50b6044435ed7344f761a194e37813175",
+            "517e47edee7d710c4b1e38ce1651ea9f8a81cfcc",
+            "b952c679895c686c8b85a4a721708b3afa9a1d0b",
+            "1894997210ed6d07dacfb6d4014cf922fea2501b"
+        ],
+        "earliest_issue_date": "2022-07-28T11:22:02",
+        "inducing_commit_hash": [
+            "823194d50b6044435ed7344f761a194e37813175"
+        ]
+    },
+    {
+        "id": 72,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "33d92a484034c7de59f2053071dceae0aa2dc6b3",
+        "files": [
+            "dom/media/platforms/MediaCodecsSupport.cpp",
+            "dom/media/platforms/MediaCodecsSupport.h"
+        ],
+        "bug_commit_hash": [
+            "e3ef8ed7317da5d1eef484ff3b0f4d419a7d7cfd",
+            "ce517bbff2b3816643d95af5a932657dc35e9c60",
+            "cfb6bc19f9a536867145d397011c1b534cb38d06",
+            "28b73d0f4650041f602d1735504f4cb23c8404aa",
+            "cb993c3a09080b748c89fd6906e191073c665a57",
+            "d4bb14bd7da46af9e28d458fa397159df55ce193",
+            "70ece38253ad231b7bc3bf252fc8682121fb0b3e",
+            "22e26a08dfc4de3ab7a7165f3fba563748e7b656",
+            "af884738cb92df0f6756848f6c8d169b01ea31cd",
+            "3a556fdab8efc11fcdbd61d17581a0e97b50c829",
+            "80be131fcaa525160f62c89a6eb69e7dd38732d3",
+            "9a5c7faf9bc3b78df5fcbc3f38ce729e34e1a037"
+        ],
+        "earliest_issue_date": "2022-07-29T21:59:46",
+        "inducing_commit_hash": [
+            "d4bb14bd7da46af9e28d458fa397159df55ce193"
+        ]
+    },
+    {
+        "id": 73,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "dc26f79694afa30868916ae56653fca891bc8a9a",
+        "files": [
+            "dom/media/platforms/MediaCodecsSupport.cpp",
+            "dom/media/platforms/MediaCodecsSupport.h"
+        ],
+        "bug_commit_hash": [
+            "e3ef8ed7317da5d1eef484ff3b0f4d419a7d7cfd",
+            "ce517bbff2b3816643d95af5a932657dc35e9c60",
+            "cfb6bc19f9a536867145d397011c1b534cb38d06",
+            "28b73d0f4650041f602d1735504f4cb23c8404aa",
+            "cb993c3a09080b748c89fd6906e191073c665a57",
+            "d4bb14bd7da46af9e28d458fa397159df55ce193",
+            "70ece38253ad231b7bc3bf252fc8682121fb0b3e",
+            "22e26a08dfc4de3ab7a7165f3fba563748e7b656",
+            "af884738cb92df0f6756848f6c8d169b01ea31cd",
+            "3a556fdab8efc11fcdbd61d17581a0e97b50c829",
+            "80be131fcaa525160f62c89a6eb69e7dd38732d3",
+            "9a5c7faf9bc3b78df5fcbc3f38ce729e34e1a037"
+        ],
+        "earliest_issue_date": "2022-07-29T21:59:46",
+        "inducing_commit_hash": [
+            "d4bb14bd7da46af9e28d458fa397159df55ce193"
+        ]
+    },
+    {
+        "id": 74,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "33ffb42fecbc117dd335cabbe15c868a9e3d4f0b",
+        "files": [
+            "gfx/layers/apz/src/Axis.h",
+            "gfx/layers/apz/test/gtest/TestScrollHandoff.cpp",
+            "layers/apz/src/Axis.cpp",
+            "layers/apz/src/InputBlockState.cpp",
+            "layers/apz/src/AsyncPanZoomController.cpp",
+            "layers/apz/src/APZUtils.h",
+            "gfx/layers/apz/src/AsyncPanZoomController.cpp",
+            "gfx/layers/apz/src/Axis.cpp"
+        ],
+        "bug_commit_hash": [
+            "a08aacff47505f2d1545a2ad2dec77ac7f730c0c",
+            "a1c89baa6d1e5aceede210abc95ba17d13d0ffaa",
+            "132c3cc5f9b653dddc8f92885b742a07e82a6956"
+        ],
+        "earliest_issue_date": "2022-07-30T05:09:30",
+        "inducing_commit_hash": [
+            "5501dee7819ad29dff983ebad2f6a14ac5eceae8"
+        ]
+    },
+    {
+        "id": 75,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "467ee4a91558b465b97ff2084515bc0d3f6feff5",
+        "files": [
+            "gfx/layers/apz/src/Axis.h",
+            "gfx/layers/apz/test/gtest/TestScrollHandoff.cpp",
+            "layers/apz/src/Axis.cpp",
+            "layers/apz/src/InputBlockState.cpp",
+            "layers/apz/src/AsyncPanZoomController.cpp",
+            "layers/apz/src/APZUtils.h",
+            "gfx/layers/apz/src/AsyncPanZoomController.cpp",
+            "gfx/layers/apz/src/Axis.cpp"
+        ],
+        "bug_commit_hash": [
+            "a08aacff47505f2d1545a2ad2dec77ac7f730c0c",
+            "a1c89baa6d1e5aceede210abc95ba17d13d0ffaa",
+            "132c3cc5f9b653dddc8f92885b742a07e82a6956"
+        ],
+        "earliest_issue_date": "2022-07-30T05:09:30",
+        "inducing_commit_hash": [
+            "2de988400e08eae9cab80c324fab993cbad77069",
+            "038d7fe3611ed81434defca30791f490b922e319",
+            "f18bce0b42665ef3fa49e17a1a6309be0d164193"
+        ]
+    },
+    {
+        "id": 76,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "dd29f750e392b471dc57d2ec5a4f5d5cfd94c58a",
+        "files": [
+            "src/vm/Interpreter.h",
+            "src/vm/JSObject.h",
+            "src/jit-test/tests/bug1782558-veclen.js",
+            "js/src/jit-test/tests/bug1782558-veclen.js",
+            "src/vm/Interpreter.cpp",
+            "src/gc/Barrier.h",
+            "src/shell/js.cpp",
+            "src/vm/CompilationAndEvaluation.cpp",
+            "src/builtin/Array.cpp",
+            "src/util/StringBuffer.h"
+        ],
+        "bug_commit_hash": [
+            "e17dc4e5bde9a093a3cd2cba729fcb09d476d3fe"
+        ],
+        "earliest_issue_date": "2022-08-01T18:02:44",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 77,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "7f75956820189f0be9721b8ea65f5030a190ce00",
+        "files": [
+            "src/vm/Interpreter.h",
+            "src/vm/JSObject.h",
+            "src/jit-test/tests/bug1782558-veclen.js",
+            "js/src/jit-test/tests/bug1782558-veclen.js",
+            "src/vm/Interpreter.cpp",
+            "src/gc/Barrier.h",
+            "src/shell/js.cpp",
+            "src/vm/CompilationAndEvaluation.cpp",
+            "src/builtin/Array.cpp",
+            "src/util/StringBuffer.h"
+        ],
+        "bug_commit_hash": [
+            "e17dc4e5bde9a093a3cd2cba729fcb09d476d3fe"
+        ],
+        "earliest_issue_date": "2022-08-01T18:02:44",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 78,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "c27d74824d50338fbd1adf9016a29817c9e06021",
+        "files": [
+            "js/src/jit-test/tests/auto-regress/bug1783507.js",
+            "src/jit/IonAnalysis.cpp",
+            "js/src/jit/MIR.h"
+        ],
+        "bug_commit_hash": [
+            "cec9afb0930ac64ae789c880a23a48705be0c1b4"
+        ],
+        "earliest_issue_date": "2022-08-06T10:19:39",
+        "inducing_commit_hash": [
+            "cec9afb0930ac64ae789c880a23a48705be0c1b4"
+        ]
+    },
+    {
+        "id": 79,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "afdea0a7b933a8bceac52a5dd83e9ab457c6dab2",
+        "files": [
+            "netwerk/protocol/http/nsHttpConnection.cpp"
+        ],
+        "bug_commit_hash": [
+            "a9086c60f7acb3eb99fc440c25767f7718a15f38",
+            "94ce3d0cd7f6da7d73fdf021a533723d53dd1cf5",
+            "07689d9fc2858729a58121816bb917cef13fe519",
+            "5283cbe0ebfb508605deb2dcd226c056b6588be1",
+            "0d78383ed2ede7fd201528a2468814fefd74854c",
+            "50f319a907edf42fd5465794089390bf23893196",
+            "9f0268d0081a787c36856c0ad8721950b87cd4d4",
+            "602b1008b7077302684a92425f6f5d6d839bbdf9",
+            "d624414716f3a7ce14501308ab189e546139e668",
+            "890b97d492dd7d4e17250c4e35f9a85fcf161d33"
+        ],
+        "earliest_issue_date": "2022-08-24T14:43:19",
+        "inducing_commit_hash": [
+            "8bc464e5133f60a91f371daf8704f05348f6f414"
+        ]
+    },
+    {
+        "id": 80,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "1feaaaac41e8d27b11bf1af9819856b90e873234",
+        "files": [
+            "dom/html/HTMLImageElement.cpp",
+            "dom/base/Element.cpp",
+            "html/HTMLSourceElement.cpp"
+        ],
+        "bug_commit_hash": [
+            "9aa988173cab9f54045b4967ddb3daeaf301679a",
+            "21130436b25da1df9cec5de290d6b4201e8abfe0",
+            "044314bc1e9f1029e52ad2d3c01e8a92ad62d4a7",
+            "c19b859d6d80d32031a8e450cddb5709d41006e1",
+            "265bec3ad36edeba90f3c8ef2c8709d228b778dd",
+            "10c949fc7913796c7d6245a966156868356b42ef",
+            "bf9fc248a565dec2262f0c51f58d9d15f6881475",
+            "2d9293be4c56bf89c08421598f0c8146e29f23a4",
+            "1fdca192973447e989c73426a841cc3b0cd0ef15"
+        ],
+        "earliest_issue_date": "2022-08-25T20:47:21",
+        "inducing_commit_hash": [
+            "044314bc1e9f1029e52ad2d3c01e8a92ad62d4a7"
+        ]
+    },
+    {
+        "id": 81,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "a4615ae2cd6be7eef26d834a069bb95f8b374de4",
+        "files": [
+            "test/unit/test_ech_grease.js",
+            "netwerk/test/unit/test_ech_grease.js"
+        ],
+        "bug_commit_hash": [
+            "c586558c95972d209a6221f6ab6b55288aed248f",
+            "f1fd9c715e3848e7a6a5b16b19a614c7b055a05c",
+            "931bba8f0bf10a34bbd2217d063a9bab726b09cd"
+        ],
+        "earliest_issue_date": "2022-08-30T07:37:47",
+        "inducing_commit_hash": [
+            "b06412fb05eb53e0956c6f21d2791ac653f41d45"
+        ]
+    },
+    {
+        "id": 82,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "67b8218080af511875969d58edc7a34cb65f9618",
+        "files": [
+            "quota/QuotaCommon.h",
+            "dom/fs/parent/FileSystemManagerParent.cpp",
+            "dom/fs/test/gtest/TestHelpers.h",
+            "fs/parent/FileSystemManagerParent.cpp",
+            "dom/quota/ResultExtensions.h",
+            "dom/fs/parent/FileSystemManagerParentFactory.cpp",
+            "fs/parent/FileSystemManagerParentFactory.cpp"
+        ],
+        "bug_commit_hash": [
+            "afdf560891489a1df3f62a6cd238c6da88602c7a",
+            "abd281621c05e66eb5e0d2ebc665f12e1b24e60a",
+            "46bc17f2c11400978496f74290006b9ac80024a3",
+            "190fc8325aaad1a04a119ba5e551d0e01e715b10",
+            "a28736c1dc412e45d6fbd3b3805782cefed06557",
+            "aabc023719643d7accda4cd6c4cc10fa908ba63e",
+            "639b028b4783d301ed0beef7d7ce0f6c8b81fbee",
+            "d6d42d416cc986c8d22d54148cd13a0ae5c29ea1"
+        ],
+        "earliest_issue_date": "2022-09-02T11:36:50",
+        "inducing_commit_hash": [
+            "f5fc20d0e752cecd7d880e9e2024ee4c24fcfe6a",
+            "e22faee1bf831fa9fb0f95b69ec89880ac0ae7f2"
+        ]
+    },
+    {
+        "id": 83,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "15be7904ba8fb4a785c9648c5c5c06840acfe527",
+        "files": [
+            "src/wasm/TypedObject.h",
+            "js/src/wasm/TypedObject.h",
+            "src/wasm/WasmBuiltins.cpp"
+        ],
+        "bug_commit_hash": [
+            "3e62d83f6317d6303ea7269e5b7e519921f9226e"
+        ],
+        "earliest_issue_date": "2022-09-07T10:01:39",
+        "inducing_commit_hash": [
+            "3e62d83f6317d6303ea7269e5b7e519921f9226e"
+        ]
+    },
+    {
+        "id": 84,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "8c73aaf858b068b628a34c2678db60228e00fd62",
+        "files": [
+            "mozapps/extensions/internal/XPIProvider.jsm",
+            "mozapps/extensions/test/mochitest/test_default_theme.html",
+            "toolkit/mozapps/extensions/amIAddonManagerStartup.idl",
+            "mobile/android/chrome/content/browser.js",
+            "toolkit/mozapps/extensions/test/mochitest/chrome.ini",
+            "toolkit/mozapps/extensions/test/moz.build",
+            "toolkit/mozapps/extensions/test/mochitest/test_default_theme.html",
+            "toolkit/mozapps/extensions/AddonManagerStartup.cpp",
+            "mobile/android/app/mobile.js",
+            "toolkit/components/extensions/test/xpcshell/head.js",
+            "mozapps/extensions/AddonManager.jsm",
+            "toolkit/mozapps/extensions/internal/XPIDatabase.jsm",
+            "toolkit/components/extensions/Extension.jsm"
+        ],
+        "bug_commit_hash": [
+            "aaece82c8d27afafca30acce6a02d95ceb9f5014",
+            "ce973507a0fdce03d7fc2307226b8dad2be66ca8",
+            "e8eb643f21c9d78b46713b8e55554838679a0bf7",
+            "f177109ac170837238263c1ab8556af1d8e360e8",
+            "f0f3744b05698f2bf26f62bab590a4b0ef4f4219",
+            "4ce628b899c0373869c240c8661b2aedfbe6f01f",
+            "d6ffbf6d83b159dd3849fd30c5d30def113ccf22",
+            "5a7c75020d5fec920529bd0bb6f3845bb495e38b",
+            "82f2537617e392615122330981acf9ce50814999",
+            "e3b46f9bc8253fcc5004b79b816a7b0b0455e852",
+            "56f9ac86a989bad2b34c03578a3203de4afd9a6d",
+            "e7b05f7ee60de68b2f9a07d7ed28d8e4dfd55959",
+            "80df1e07403781985188e72744fdf2ab95530d71",
+            "b6e349a174bb5b843229d78288047344b42ca506",
+            "b8be50f2e2a48e9eb322a43ea6b4686b2f2a3978",
+            "ceaf3aada8b8544cac68353e6a905ee78efaaf11",
+            "4f5ca30daef62adce1c3cd316bc3b6c304b54ef4",
+            "cb2fe0f20249ba5ab1817e3a26e7fca734f0755c",
+            "e0f141c243b9fbb5a0a07d8b31c398251de23e3e",
+            "c2f6277f27d933d126469ec39c39dcab4d7d0910",
+            "857076cfad62acecf4b81e7b677122b5f09d8259",
+            "295a7988f73b191b705cf3dd109b232f32c2dbf2",
+            "7abfa89ee69993d279a5e8558ea99eaad4ab7550",
+            "280443cbdc20bd20660a2c971c12981fcd8d3eb6",
+            "3d18db67ac1d96482abae5310c0e9b5bbb62e798"
+        ],
+        "earliest_issue_date": "2019-05-13T12:07:22",
+        "inducing_commit_hash": [
+            "c0887f157981bfff6bc01b71fa7cf042534eb8db",
+            "51ebe9539aab247c89c23057f97dfca86379a950"
+        ]
+    },
+    {
+        "id": 85,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "793397b2981130dd493ed005ec4b036f677e8c1e",
+        "files": [
+            "mozapps/extensions/internal/XPIProvider.jsm",
+            "mozapps/extensions/test/mochitest/test_default_theme.html",
+            "toolkit/mozapps/extensions/amIAddonManagerStartup.idl",
+            "mobile/android/chrome/content/browser.js",
+            "toolkit/mozapps/extensions/test/mochitest/chrome.ini",
+            "toolkit/mozapps/extensions/test/moz.build",
+            "toolkit/mozapps/extensions/test/mochitest/test_default_theme.html",
+            "toolkit/mozapps/extensions/AddonManagerStartup.cpp",
+            "mobile/android/app/mobile.js",
+            "toolkit/components/extensions/test/xpcshell/head.js",
+            "mozapps/extensions/AddonManager.jsm",
+            "toolkit/mozapps/extensions/internal/XPIDatabase.jsm",
+            "toolkit/components/extensions/Extension.jsm"
+        ],
+        "bug_commit_hash": [
+            "aaece82c8d27afafca30acce6a02d95ceb9f5014",
+            "ce973507a0fdce03d7fc2307226b8dad2be66ca8",
+            "e8eb643f21c9d78b46713b8e55554838679a0bf7",
+            "f177109ac170837238263c1ab8556af1d8e360e8",
+            "f0f3744b05698f2bf26f62bab590a4b0ef4f4219",
+            "4ce628b899c0373869c240c8661b2aedfbe6f01f",
+            "d6ffbf6d83b159dd3849fd30c5d30def113ccf22",
+            "5a7c75020d5fec920529bd0bb6f3845bb495e38b",
+            "82f2537617e392615122330981acf9ce50814999",
+            "e3b46f9bc8253fcc5004b79b816a7b0b0455e852",
+            "56f9ac86a989bad2b34c03578a3203de4afd9a6d",
+            "e7b05f7ee60de68b2f9a07d7ed28d8e4dfd55959",
+            "80df1e07403781985188e72744fdf2ab95530d71",
+            "b6e349a174bb5b843229d78288047344b42ca506",
+            "b8be50f2e2a48e9eb322a43ea6b4686b2f2a3978",
+            "ceaf3aada8b8544cac68353e6a905ee78efaaf11",
+            "4f5ca30daef62adce1c3cd316bc3b6c304b54ef4",
+            "cb2fe0f20249ba5ab1817e3a26e7fca734f0755c",
+            "e0f141c243b9fbb5a0a07d8b31c398251de23e3e",
+            "c2f6277f27d933d126469ec39c39dcab4d7d0910",
+            "857076cfad62acecf4b81e7b677122b5f09d8259",
+            "295a7988f73b191b705cf3dd109b232f32c2dbf2",
+            "7abfa89ee69993d279a5e8558ea99eaad4ab7550",
+            "280443cbdc20bd20660a2c971c12981fcd8d3eb6",
+            "3d18db67ac1d96482abae5310c0e9b5bbb62e798"
+        ],
+        "earliest_issue_date": "2019-05-13T12:07:22",
+        "inducing_commit_hash": [
+            "987505057a1ab52c3db6f293a215ea8b7efff36d",
+            "5e60161a1efa671652a72497c151d345cb8205d2",
+            "ab2a517bf79ae24419102b570425640ae91ab511",
+            "9823bcefdf125eb13829074f3f469ebd9fdec6ff",
+            "ae8e71eebc8d1591d2c99db4877b2393e2708e65",
+            "225d429fd9e6d087bfd0341db87896e295614d66",
+            "2c0e7afda9772fa972a28cbe9b64e8941ac4612d",
+            "aed23833a48409be3dd2598ca8339aa906dc0714"
+        ]
+    },
+    {
+        "id": 86,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "060fca6a2b6a323589555e5771179f0ab77bd0d4",
+        "files": [
+            "mozapps/extensions/internal/XPIProvider.jsm",
+            "mozapps/extensions/test/mochitest/test_default_theme.html",
+            "toolkit/mozapps/extensions/amIAddonManagerStartup.idl",
+            "mobile/android/chrome/content/browser.js",
+            "toolkit/mozapps/extensions/test/mochitest/chrome.ini",
+            "toolkit/mozapps/extensions/test/moz.build",
+            "toolkit/mozapps/extensions/test/mochitest/test_default_theme.html",
+            "toolkit/mozapps/extensions/AddonManagerStartup.cpp",
+            "mobile/android/app/mobile.js",
+            "toolkit/components/extensions/test/xpcshell/head.js",
+            "mozapps/extensions/AddonManager.jsm",
+            "toolkit/mozapps/extensions/internal/XPIDatabase.jsm",
+            "toolkit/components/extensions/Extension.jsm"
+        ],
+        "bug_commit_hash": [
+            "aaece82c8d27afafca30acce6a02d95ceb9f5014",
+            "ce973507a0fdce03d7fc2307226b8dad2be66ca8",
+            "e8eb643f21c9d78b46713b8e55554838679a0bf7",
+            "f177109ac170837238263c1ab8556af1d8e360e8",
+            "f0f3744b05698f2bf26f62bab590a4b0ef4f4219",
+            "4ce628b899c0373869c240c8661b2aedfbe6f01f",
+            "d6ffbf6d83b159dd3849fd30c5d30def113ccf22",
+            "5a7c75020d5fec920529bd0bb6f3845bb495e38b",
+            "82f2537617e392615122330981acf9ce50814999",
+            "e3b46f9bc8253fcc5004b79b816a7b0b0455e852",
+            "56f9ac86a989bad2b34c03578a3203de4afd9a6d",
+            "e7b05f7ee60de68b2f9a07d7ed28d8e4dfd55959",
+            "80df1e07403781985188e72744fdf2ab95530d71",
+            "b6e349a174bb5b843229d78288047344b42ca506",
+            "b8be50f2e2a48e9eb322a43ea6b4686b2f2a3978",
+            "ceaf3aada8b8544cac68353e6a905ee78efaaf11",
+            "4f5ca30daef62adce1c3cd316bc3b6c304b54ef4",
+            "cb2fe0f20249ba5ab1817e3a26e7fca734f0755c",
+            "e0f141c243b9fbb5a0a07d8b31c398251de23e3e",
+            "c2f6277f27d933d126469ec39c39dcab4d7d0910",
+            "857076cfad62acecf4b81e7b677122b5f09d8259",
+            "295a7988f73b191b705cf3dd109b232f32c2dbf2",
+            "7abfa89ee69993d279a5e8558ea99eaad4ab7550",
+            "280443cbdc20bd20660a2c971c12981fcd8d3eb6",
+            "3d18db67ac1d96482abae5310c0e9b5bbb62e798"
+        ],
+        "earliest_issue_date": "2019-05-13T12:07:22",
+        "inducing_commit_hash": [
+            "fc01d8c4954da9b614a22373883df351d3053d50"
+        ]
+    },
+    {
+        "id": 87,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "e3d79191959cb56fe1f70c1ea4ebed222cd711f9",
+        "files": [
+            "content/widgets/tree.xml",
+            "toolkit/content/widgets/tree.js"
+        ],
+        "bug_commit_hash": [
+            "5d94c69146ca7293e4dc901c6f857c2c22be497b",
+            "24aa9397a7e3f78471a4b90a281d12aec20ff093"
+        ],
+        "earliest_issue_date": "2019-06-26T16:15:31",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 88,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "86b75801d35a9b30e4a00b4b11e6faf079ba732b",
+        "files": [
+            "content/widgets/tree.xml",
+            "toolkit/content/widgets/tree.js"
+        ],
+        "bug_commit_hash": [
+            "5d94c69146ca7293e4dc901c6f857c2c22be497b",
+            "24aa9397a7e3f78471a4b90a281d12aec20ff093"
+        ],
+        "earliest_issue_date": "2019-06-26T16:15:31",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 89,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "7193a6c245519a07d37250997ebae9edd14e7b9a",
+        "files": [
+            "modules/libpref/init/all.js"
+        ],
+        "bug_commit_hash": [
+            "7734fa4e36ce455b6c9b8d3f3325b4e11a5f82a1"
+        ],
+        "earliest_issue_date": "2019-03-19T14:54:16",
+        "inducing_commit_hash": [
+            "04713b8ac235f5a999557a101267d6bb20220867"
+        ]
+    },
+    {
+        "id": 90,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "4924bc78fc602126853fe74c4c3e33f275d5f1de",
+        "files": [
+            "layers/ipc/RemoteContentController.cpp",
+            "gfx/layers/ipc/RemoteContentController.cpp"
+        ],
+        "bug_commit_hash": [
+            "4dc0afdc6f6360dfe48d2a82e6bcaa70dee13011"
+        ],
+        "earliest_issue_date": "2022-09-16T07:43:05",
+        "inducing_commit_hash": [
+            "4dc0afdc6f6360dfe48d2a82e6bcaa70dee13011"
+        ]
+    },
+    {
+        "id": 91,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "00775149f865f280998a9e6d5eeb3d098b4a8f95",
+        "files": [
+            "themes/shared/tabs.css",
+            "browser/themes/shared/tabs.css"
+        ],
+        "bug_commit_hash": [
+            "95eee5a8cf68e224f8d253c2f7e36a32ef30dc7c"
+        ],
+        "earliest_issue_date": "2022-08-25T15:39:06",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 92,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "0bd96c17f10c16e824d6469f0e78cd268733cabe",
+        "files": [
+            "netwerk/test/useragent/snap.ini",
+            "netwerk/test/useragent/nonsnap.ini",
+            "netwerk/test/useragent/browser_nonsnap.ini",
+            "netwerk/test/useragent/browser_snap.ini",
+            "netwerk/test/moz.build"
+        ],
+        "bug_commit_hash": [
+            "d69779935358bfb57799a7fdb508934c68f7b849"
+        ],
+        "earliest_issue_date": "2022-09-23T20:34:02",
+        "inducing_commit_hash": [
+            "d69779935358bfb57799a7fdb508934c68f7b849"
+        ]
+    },
+    {
+        "id": 93,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "5cf3a5e8d2feb4560e23364fcaba40be9bdecea4",
+        "files": [
+            "base/BrowsingContext.cpp",
+            "browser/base/content/test/forms/browser.ini",
+            "dom/interfaces/base/nsIDOMWindowUtils.idl",
+            "base/Document.h",
+            "base/PopupBlocker.cpp",
+            "browser/base/content/test/forms/browser_selectpopup_user_input.js",
+            "dom/base/Document.h",
+            "dom/base/nsDOMWindowUtils.cpp",
+            "browser/base/content/test/forms/browser_selectpopup.js"
+        ],
+        "bug_commit_hash": [
+            "517c91c4664ca52012aea7a6ab07ac4c7c2490f7",
+            "0742556af95f7a655a74177f6bcc756b281cf9aa",
+            "92a091ff3ccc66437e0e335876df3d8aeaee7560"
+        ],
+        "earliest_issue_date": "2022-09-06T22:45:57",
+        "inducing_commit_hash": [
+            "2d5a9065dfb38a58e9b5c5f5ccfa527f14b783d1",
+            "f6835d99cc64830bb9139e45b1cea68869e7e8bb",
+            "9b86feac7f5def12251a6c2f02a9793c7e3ec2db",
+            "a521e396264991e0a78480cbb7a672dcddec69a5"
+        ]
+    },
+    {
+        "id": 94,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "f337c9d9e425b40033028886681eb48795641175",
+        "files": [
+            "components/firefoxview/tests/browser/head.js",
+            "browser/components/firefoxview/tests/browser/head.js",
+            "components/firefoxview/tests/browser/browser_tab_pickup_list.js",
+            "browser/components/firefoxview/tests/browser/browser_tab_pickup_list.js"
+        ],
+        "bug_commit_hash": [
+            "76313274e396554819f3f772b233b96c1982ecc2"
+        ],
+        "earliest_issue_date": "2022-09-15T23:44:32",
+        "inducing_commit_hash": [
+            "30a2e502abfdd63cdc9913265d80869c8559381a",
+            "3b238836c7ea1c4de6332f756f7bfbc1463ecbcf"
+        ]
+    },
+    {
+        "id": 95,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "d9b695e6bcc48e5676a7a67b5c8eb55789c1cc18",
+        "files": [
+            "js/src/vm/JSContext.cpp",
+            "js/src/jit-test/tests/generators/bug1791968.js",
+            "js/src/jit/JitFrames.cpp"
+        ],
+        "bug_commit_hash": [
+            "9f0c4141736dc9fe733029775101fdcf2f00a613",
+            "5757da471dc78a2615343fd5a7daf6146aa8f7d3",
+            "70f9cddb8a1dba0297e8db45b60a664a87b5a41d",
+            "308be2feffb36af0942820d2b6599741048a9fd0",
+            "85bc984befebb3361d0a39078804483f50add671",
+            "21f6b879044b9b52d8bb62c7cb01d50db9cc2487",
+            "5adf885c16a8223d001f1caa96914e9e15291cfc",
+            "691cf1227401a145b1d9b1679468add5f010df71",
+            "c5f1f5501d607f1e9d4caff48301067e21ff55a8"
+        ],
+        "earliest_issue_date": "2022-09-22T08:05:31",
+        "inducing_commit_hash": [
+            "52293e80ed5de7c197d00bec9b2fec17bc19cb7d"
+        ]
+    },
+    {
+        "id": 96,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "aa94adc8bddf6c15030ca894c120ee515791e558",
+        "files": [
+            "js/src/shell/js.cpp",
+            "js/src/jit-test/tests/parser/syntax-parse-error.js"
+        ],
+        "bug_commit_hash": [
+            "54a211e28f5851d0247912e446b41ea2259e601d",
+            "da202dee5ee391766fb37a8fc89879ff95319f0b",
+            "7627cf44f0ec3026c55938510b1a25afab9ac267",
+            "d04470b08a9b358bb780c5bbe4230f57abba5922",
+            "b1e094775302dab32ae0cba69bdce847a2fee5f1",
+            "b987c9527eca68232df4a70f69b599dc0823f771",
+            "6539d7f5f30504ef77cb8d88ebbc583bf400b125",
+            "7682d35fcd7ce381cf1f3108c376bb487cc560cc",
+            "71d242dd31d19e156835fafceac6ef8452f00c69",
+            "0db1389b67ea787785c3a8e337ca063531024127",
+            "767601d2bfbaabd02fc7477c574a94c2571239bb",
+            "84575871f67614f0ac792748746d3f1d448b11ba",
+            "b04dd609522441206a9feec0d07fb5b0a7f27958",
+            "3bb10a02da5a08a6850f8e01988186ea45acdee2",
+            "ebce8f046bd3a4b35da78b36d46e95724d1ff923",
+            "e0c908ae5a4f7b2393658580fc4967f2f509f995"
+        ],
+        "earliest_issue_date": "2022-09-30T02:46:50",
+        "inducing_commit_hash": [
+            "30f5e1268fe7d450442066d3057467c7e94ddc90",
+            "29b1224fe8ef4253182f3b4ad0496b92d465aaac"
+        ]
+    },
+    {
+        "id": 97,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "758402cdb1f49e9afa45f7432d783a084ec3905d",
+        "files": [
+            "libeditor/WSRunObject.cpp",
+            "editor/libeditor/WSRunObject.cpp"
+        ],
+        "bug_commit_hash": [
+            "030bb719c0da7204f236e7b9ba0348ff42a6af8a",
+            "2cdc9db60e9f31e7401270389854def0ebe6351a"
+        ],
+        "earliest_issue_date": "2022-10-12T13:02:07",
+        "inducing_commit_hash": [
+            "030bb719c0da7204f236e7b9ba0348ff42a6af8a"
+        ]
+    },
+    {
+        "id": 98,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "6db00d23e879b5a55aec642a1207435dfb65d7ac",
+        "files": [
+            "layout/base/PresShell.cpp",
+            "gfx/2d/Types.h",
+            "2d/Types.h",
+            "layout/forms/nsListControlFrame.cpp",
+            "layout/base/PresShell.h",
+            "layout/xul/nsMenuPopupFrame.cpp",
+            "testing/web-platform/tests/css/cssom-view/scrollIntoView-stuck.tentative.html",
+            "dom/ipc/BrowserBridgeChild.cpp",
+            "dom/base/Selection.cpp"
+        ],
+        "bug_commit_hash": [
+            "27814b204815d43ef4ebdf4e0b4b099b46872fb2",
+            "20a00abda893c09e8cd987475dcb86a3a8ce704e"
+        ],
+        "earliest_issue_date": "2022-10-17T11:51:08",
+        "inducing_commit_hash": [
+            "3dcf861d71d6e50b93cbc959faa2ade61da5e582",
+            "11c45defcc8919f0984fcd1ac62aa7f668771a7d",
+            "dd4284212b878db75d482b1e6f28e1e1aec78100",
+            "e62a7d7a902544a2a6577433208980739f293ed3",
+            "a8dfaa89fa17391b5d4c9b593d262c320a288d9a",
+            "dfa33c95b7ba72ebd6f0c6189b551d87cfbdf960",
+            "073a5b88b0050f7e10ed56ffe00a8dbd4d8a1d89",
+            "578175fd05a04d080366153193fe87750db1ae1d",
+            "7b167a64aede33e721d147f8ed053a3e6f957805",
+            "9cd0b99097ef9fd5149c32738e8c7d7a4c262e3e"
+        ]
+    },
+    {
+        "id": 99,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "4f21586ba4d7e126a55b2978e1679bc9d992ac9c",
+        "files": [
+            "layout/base/PresShell.cpp",
+            "gfx/2d/Types.h",
+            "2d/Types.h",
+            "layout/forms/nsListControlFrame.cpp",
+            "layout/base/PresShell.h",
+            "layout/xul/nsMenuPopupFrame.cpp",
+            "testing/web-platform/tests/css/cssom-view/scrollIntoView-stuck.tentative.html",
+            "dom/ipc/BrowserBridgeChild.cpp",
+            "dom/base/Selection.cpp"
+        ],
+        "bug_commit_hash": [
+            "27814b204815d43ef4ebdf4e0b4b099b46872fb2",
+            "20a00abda893c09e8cd987475dcb86a3a8ce704e"
+        ],
+        "earliest_issue_date": "2022-10-17T11:51:08",
+        "inducing_commit_hash": [
+            "54b0a800327f4f9b9e3cae80ac0d14d15f5f0b4b"
+        ]
+    },
+    {
+        "id": 100,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "c915bad24ab92d3c2b5084309a8820504f4fd888",
+        "files": [
+            "layout/base/PresShell.cpp",
+            "gfx/2d/Types.h",
+            "2d/Types.h",
+            "layout/forms/nsListControlFrame.cpp",
+            "layout/base/PresShell.h",
+            "layout/xul/nsMenuPopupFrame.cpp",
+            "testing/web-platform/tests/css/cssom-view/scrollIntoView-stuck.tentative.html",
+            "dom/ipc/BrowserBridgeChild.cpp",
+            "dom/base/Selection.cpp"
+        ],
+        "bug_commit_hash": [
+            "27814b204815d43ef4ebdf4e0b4b099b46872fb2",
+            "20a00abda893c09e8cd987475dcb86a3a8ce704e"
+        ],
+        "earliest_issue_date": "2022-10-17T11:51:08",
+        "inducing_commit_hash": [
+            "11c45defcc8919f0984fcd1ac62aa7f668771a7d",
+            "15f3beb483452b9d6e39501e3faa2122b2f53ee7",
+            "ad6416eb675771d7edea158c42f3b1f33f5bf3d5"
+        ]
+    }
+]

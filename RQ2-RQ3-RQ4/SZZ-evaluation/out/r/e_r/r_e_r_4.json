@@ -1,0 +1,2310 @@
+[
+    {
+        "id": 401,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "c76617e00d3ca0a1ae3fe768404fe9edd2eaa625",
+        "files": [
+            "testing/raptor/raptor/browsertime/base.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-03-26T18:43:14",
+        "inducing_commit_hash": [
+            "0bad0319537704cc15bb1780eeebc151046c4605"
+        ]
+    },
+    {
+        "id": 402,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "fd66374b78a1f58f3e17e201b45bbabff007644d",
+        "files": [
+            "testing/mozharness/mozharness/mozilla/testing/firefox_ui_tests.py",
+            "mozharness/mozharness/mozilla/testing/firefox_ui_tests.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-03-29T09:40:39",
+        "inducing_commit_hash": [
+            "f848a0cd5d23c24a7d53209982d0cdea8377ff75"
+        ]
+    },
+    {
+        "id": 403,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "da4b05c777423bdd728838d1400bc0626a642d8f",
+        "files": [
+            "taskcluster/docs/kinds.rst",
+            ".cron.yml",
+            "taskcluster/docker/python-dependency-update/runme.sh",
+            "taskcluster/docker/python-dependency-update/requirements.txt",
+            "taskcluster/docker/python-dependency-update/setup.sh",
+            "taskcluster/ci/docker-image/kind.yml",
+            "docker/python-dependency-update/requirements.in",
+            "taskcluster/docker/python-dependency-update/requirements.in",
+            "taskcluster/docker/python-dependency-update/Dockerfile",
+            "taskcluster/docker/python-dependency-update/scripts/update_pipfiles.sh",
+            "taskcluster/taskgraph/target_tasks.py",
+            "taskcluster/docker/python-dependency-update/README.md",
+            "taskcluster/ci/python-dependency-update/kind.yml"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-03-29T10:35:17",
+        "inducing_commit_hash": [
+            "117ceb8a6505124ebb26a7038b61fad47cf24567"
+        ]
+    },
+    {
+        "id": 404,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "7360c98544887c8e7d77b4c00b4e1ba0b4b2f359",
+        "files": [
+            "testing/raptor/raptor/output.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-03-29T12:43:39",
+        "inducing_commit_hash": [
+            "4a87a9c78f413c6cebf54806b567209b4967e634"
+        ]
+    },
+    {
+        "id": 405,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "633cab54c12e9e587af71a607e6fd7516b4c9bf7",
+        "files": [
+            "testing/raptor/raptor/results.py",
+            "testing/raptor/browsertime/browsertime_benchmark.js",
+            "taskcluster/ci/test/browsertime-desktop.yml",
+            "raptor/raptor/results.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-04-02T01:48:38",
+        "inducing_commit_hash": [
+            "afa7ab9e1014e7580b538b0f4b349c98aa76df96"
+        ]
+    },
+    {
+        "id": 406,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "4430ed7f0fc98e490f120a7ce7da1ad4d218ea5c",
+        "files": [
+            "browser/components/places/tests/browser/browser_bug427633_no_newfolder_if_noip.js",
+            "browser/components/places/tests/browser/head.js",
+            "browser/components/places/PlacesUIUtils.jsm",
+            "browser/components/places/tests/browser/browser.ini",
+            "browser/components/places/tests/browser/browser_library_new_bookmark.js",
+            "components/places/tests/browser/browser_bookmark_change_location.js"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-04-02T19:05:45",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 407,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "4e15ca7d65cdb0c3ae09ca055c2a6d61cb95713e",
+        "files": [
+            "browser/components/places/tests/browser/browser_bug427633_no_newfolder_if_noip.js",
+            "browser/components/places/tests/browser/head.js",
+            "browser/components/places/PlacesUIUtils.jsm",
+            "browser/components/places/tests/browser/browser.ini",
+            "browser/components/places/tests/browser/browser_library_new_bookmark.js",
+            "components/places/tests/browser/browser_bookmark_change_location.js"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-04-02T19:05:45",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 408,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "263f02d54b6c516f5514f4f61a6841f2b5fbd53d",
+        "files": [
+            "browser/components/places/tests/browser/browser_bug427633_no_newfolder_if_noip.js",
+            "browser/components/places/tests/browser/head.js",
+            "browser/components/places/PlacesUIUtils.jsm",
+            "browser/components/places/tests/browser/browser.ini",
+            "browser/components/places/tests/browser/browser_library_new_bookmark.js",
+            "components/places/tests/browser/browser_bookmark_change_location.js"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-04-02T19:05:45",
+        "inducing_commit_hash": [
+            "b9fcdba65795512aa095ad03bfa673ca3f92c747"
+        ]
+    },
+    {
+        "id": 409,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "e5fffbf84e49447a636a37709a228b5ef49260de",
+        "files": [
+            "browser/components/places/tests/browser/browser_bug427633_no_newfolder_if_noip.js",
+            "browser/components/places/tests/browser/head.js",
+            "browser/components/places/PlacesUIUtils.jsm",
+            "browser/components/places/tests/browser/browser.ini",
+            "browser/components/places/tests/browser/browser_library_new_bookmark.js",
+            "components/places/tests/browser/browser_bookmark_change_location.js"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-04-02T19:05:45",
+        "inducing_commit_hash": [
+            "b9fcdba65795512aa095ad03bfa673ca3f92c747"
+        ]
+    },
+    {
+        "id": 410,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "e63c38d70c8f87ba5febae1afc4b3ba35e0e7b55",
+        "files": [
+            "browser/components/places/tests/browser/browser_bug427633_no_newfolder_if_noip.js",
+            "browser/components/places/tests/browser/head.js",
+            "browser/components/places/PlacesUIUtils.jsm",
+            "browser/components/places/tests/browser/browser.ini",
+            "browser/components/places/tests/browser/browser_library_new_bookmark.js",
+            "components/places/tests/browser/browser_bookmark_change_location.js"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-04-02T19:05:45",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 411,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "a71c93c4a015a8cc9da25b420909ccf22675b5ff",
+        "files": [
+            "testing/mozbase/rust/mozdevice/src/lib.rs"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-04-05T17:59:46",
+        "inducing_commit_hash": [
+            "2e065df4f1fe21fe8a900bb79110b04496e96a0b"
+        ]
+    },
+    {
+        "id": 412,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "080d19fd8957baaf0e468c47f0d800e48b062a69",
+        "files": [
+            "testing/mozharness/mozharness/mozilla/testing/codecoverage.py",
+            "mozharness/mozharness/mozilla/testing/codecoverage.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-04-09T10:55:30",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 413,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "5b40a9aff13d7f34c09c12c3f6d0818e1b234eb5",
+        "files": [
+            "testing/mozharness/mozharness/mozilla/testing/codecoverage.py",
+            "mozharness/mozharness/mozilla/testing/codecoverage.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-04-09T10:55:30",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 414,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "5c7c4dacfb7808c1e2631588ead73f4b7467585f",
+        "files": [
+            "testing/web-platform/tests/measure-memory/detached.https.window.js",
+            "testing/web-platform/meta/measure-memory/detached.https.window.js.ini"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-04-10T06:48:50",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 415,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "6a9efb288e71377a65e444893c9ca2ae509acba2",
+        "files": [
+            "taskcluster/ci/test/raptor-gve.yml",
+            "taskcluster/taskgraph/transforms/raptor.py",
+            "taskcluster/ci/test/raptor-refbrow.yml",
+            "taskcluster/ci/config.yml",
+            "taskcluster/ci/test/test-platforms.yml",
+            "taskcluster/taskgraph/target_tasks.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-04-15T15:35:08",
+        "inducing_commit_hash": [
+            "4fbfc596a912950886c78cf4b4e44619fa5da7dd"
+        ]
+    },
+    {
+        "id": 416,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "fc45d577a3123f14bad5c475d3a484e8d7db7f0e",
+        "files": [
+            "taskcluster/ci/test/raptor-gve.yml",
+            "taskcluster/taskgraph/transforms/raptor.py",
+            "taskcluster/ci/test/raptor-refbrow.yml",
+            "taskcluster/ci/config.yml",
+            "taskcluster/ci/test/test-platforms.yml",
+            "taskcluster/taskgraph/target_tasks.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-04-15T15:35:08",
+        "inducing_commit_hash": [
+            "363727e62b98358d8a49515f8cc6d8d7f1426919"
+        ]
+    },
+    {
+        "id": 417,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "cbab5d4020fa5b5c647b1d4aeb78ff1fbeddd6de",
+        "files": [
+            "third_party/webkit/PerformanceTests/webaudio/webaudio-bench.js"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-04-15T18:25:42",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 418,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "796e311f08e5ad8c0d7e7eba0f4991100890a107",
+        "files": [
+            "testing/web-platform/meta/measure-memory/detached.https.window.js.ini"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-04-15T23:44:51",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 419,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "4ce201395f2ff19545dcd7248f8fee2a807b8e54",
+        "files": [
+            "taskcluster/ci/test/test-platforms.yml"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-04-26T11:54:51",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 420,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "473d2488c3bc949fcd33ddb38ef42d94167bab1a",
+        "files": [
+            "testing/marionette/modal.js",
+            "marionette/driver.js"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-04-28T13:57:09",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 421,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "6b33541373aef8e57f7c3b77340776fe8c9190db",
+        "files": [
+            "testing/marionette/modal.js",
+            "marionette/driver.js"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-04-28T13:57:09",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 422,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "7fcbd3dcef90aa2e525dce85b8887b3df8d56bf8",
+        "files": [
+            "taskcluster/taskgraph/target_tasks.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-04-28T16:16:13",
+        "inducing_commit_hash": [
+            "1cee004d5f74e5054468bbef0a4800fa0a7d2948"
+        ]
+    },
+    {
+        "id": 423,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "e2a721f8f3a8b2ed63f6990d7975e4c5fbfe3df2",
+        "files": [
+            "testing/web-platform/mozilla/tests/webdriver/execute_async_script/__init__.py",
+            "testing/web-platform/mozilla/tests/webdriver/execute_async_script/execute_async.py",
+            "testing/web-platform/tests/webdriver/tests/execute_async_script/execute_async.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-04-29T16:28:45",
+        "inducing_commit_hash": [
+            "7c5818f1a97dad182a3c89346d7feca43aa50cb4"
+        ]
+    },
+    {
+        "id": 424,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "647554ca6ff52aa244859af999f104ab4aead9ed",
+        "files": [
+            "web-platform/mozilla/tests/webdriver/execute_async_script/execute_async.py",
+            "testing/web-platform/mozilla/tests/webdriver/execute_async_script/execute_async.py",
+            "testing/marionette/modal.js"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-05-02T11:40:56",
+        "inducing_commit_hash": [
+            "aa1f5900cf53f8d48fd4199d4d5051f8a23cb0f4"
+        ]
+    },
+    {
+        "id": 425,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "e1985eac48e23d4a93e2ba03629c69728bbdb6ff",
+        "files": [
+            "testing/web-platform/tests/focus/support/hasfocus-inner.html",
+            "dom/base/nsFocusManager.h",
+            "testing/web-platform/tests/focus/support/hasfocus-different-site-outer.sub.html",
+            "dom/base/Document.cpp",
+            "testing/web-platform/tests/focus/support/hasfocus-other.html",
+            "testing/web-platform/tests/focus/hasfocus-same-site.html",
+            "base/Document.cpp",
+            "base/nsCycleCollector.cpp",
+            "testing/web-platform/tests/focus/hasfocus-different-site.html",
+            "testing/web-platform/tests/focus/support/hasfocus-same-site-outer.html"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-05-03T16:03:17",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 426,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "3c9f8da43255a9837d5fbc1412d9856bd2b4bd07",
+        "files": [
+            "testing/web-platform/tests/focus/support/hasfocus-inner.html",
+            "dom/base/nsFocusManager.h",
+            "testing/web-platform/tests/focus/support/hasfocus-different-site-outer.sub.html",
+            "dom/base/Document.cpp",
+            "testing/web-platform/tests/focus/support/hasfocus-other.html",
+            "testing/web-platform/tests/focus/hasfocus-same-site.html",
+            "base/Document.cpp",
+            "base/nsCycleCollector.cpp",
+            "testing/web-platform/tests/focus/hasfocus-different-site.html",
+            "testing/web-platform/tests/focus/support/hasfocus-same-site-outer.html"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-05-03T16:03:17",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 427,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "35f9d6212d858a5ac35190050f4615aa0ae963e9",
+        "files": [
+            "taskcluster/taskgraph/target_tasks.py",
+            "taskgraph/target_tasks.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-05-04T17:32:21",
+        "inducing_commit_hash": [
+            "7fcbd3dcef90aa2e525dce85b8887b3df8d56bf8"
+        ]
+    },
+    {
+        "id": 428,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "eb22975aef1b4b506e6c7555ce7f03d62afe07f0",
+        "files": [
+            "testing/marionette/driver.js",
+            "testing/marionette/actors/MarionetteCommandsParent.jsm",
+            "testing/marionette/test/unit/test_actors.js",
+            "marionette/driver.js"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-05-10T08:37:09",
+        "inducing_commit_hash": [
+            "65a564a54340a43c1def5b985d448c57a929258f"
+        ]
+    },
+    {
+        "id": 429,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "f9e3c7454915d5b4930fb9749962b649d2de4b19",
+        "files": [
+            "testing/marionette/driver.js",
+            "testing/marionette/actors/MarionetteCommandsParent.jsm",
+            "testing/marionette/test/unit/test_actors.js",
+            "marionette/driver.js"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-05-10T08:37:09",
+        "inducing_commit_hash": [
+            "4fb4125d0ebd21f93a8a2e748c3614d86031421f"
+        ]
+    },
+    {
+        "id": 430,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "90c567fccc82f27e37213a7fb21486ba4207c085",
+        "files": [
+            "testing/marionette/driver.js",
+            "testing/marionette/actors/MarionetteCommandsParent.jsm",
+            "testing/marionette/test/unit/test_actors.js",
+            "marionette/driver.js"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-05-10T08:37:09",
+        "inducing_commit_hash": [
+            "9b36a0ad6b03be9e88faf6c024e52038f8c6e4ca"
+        ]
+    },
+    {
+        "id": 431,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "339170f6ebda703f10b4a2b368ca700f3f85624d",
+        "files": [
+            "testing/marionette/driver.js",
+            "testing/marionette/actors/MarionetteCommandsParent.jsm",
+            "testing/marionette/test/unit/test_actors.js",
+            "marionette/driver.js"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-05-10T08:37:09",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 432,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "a37bc908e9d2c15f02e8b7ec00a687969aa31413",
+        "files": [
+            "mozperftest/mozperftest/utils.py",
+            "mozperftest/mozperftest/runner.py",
+            "python/mozperftest/mozperftest/runner.py",
+            "mozperftest/mozperftest/argparser.py",
+            "mozperftest/mozperftest/layers.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-05-11T08:54:33",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 433,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "73fa5ce74be64a395c01a61c66726cec2fe5e471",
+        "files": [
+            "testing/web-platform/mach_commands.py",
+            "web-platform/mach_commands.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-05-18T10:58:38",
+        "inducing_commit_hash": [
+            "2753ba29d39003d58cd80048d67cccf25483aaee"
+        ]
+    },
+    {
+        "id": 434,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "7156b8a65e1b4130d83cf7ae5eeda479030d98f1",
+        "files": [
+            "testing/web-platform/mach_commands.py",
+            "web-platform/mach_commands.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-05-18T10:58:38",
+        "inducing_commit_hash": [
+            "9097219d7574036f1abeef3bb460be8546285699"
+        ]
+    },
+    {
+        "id": 435,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "d16293394ee01c63eb50e4a99b15c70bde7ae16d",
+        "files": [
+            "testing/web-platform/mach_commands.py",
+            "web-platform/mach_commands.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-05-18T10:58:38",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 436,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "d855720de20fa9574799a8f01b02bc62a3b5c48b",
+        "files": [
+            "testing/raptor/raptor/tests/benchmarks/raptor-speedometer.ini",
+            "testing/raptor/raptor/raptor.ini"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-05-24T14:43:49",
+        "inducing_commit_hash": [
+            "431823c671c4abbf3a4724375f85b94a4e76b926"
+        ]
+    },
+    {
+        "id": 437,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "9aad4abd380c42a96627b1c5a1e0a959a110112a",
+        "files": [
+            "testing/web-platform/tests/tools/wptrunner/wptrunner/browsers/firefox.py",
+            "web-platform/tests/tools/wptrunner/wptrunner/browsers/firefox.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-05-26T09:26:13",
+        "inducing_commit_hash": [
+            "97445300ae65caf8467b5f41c9338e1fa0eafec6"
+        ]
+    },
+    {
+        "id": 438,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "e3e963ffd08e516eb2275385152f3cfbf50ec8d4",
+        "files": [
+            "testing/raptor/mach_commands.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-05-27T13:48:44",
+        "inducing_commit_hash": [
+            "35f7f13b52d3315cedde7b23759e7a5f94ae0eb3"
+        ]
+    },
+    {
+        "id": 439,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "cc7658509e12d4c65d9ae9bd27066409d294dc0f",
+        "files": [
+            "testing/mochitest/tests/python/conftest.py",
+            "mochitest/tests/python/test_mochitest_integration.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-05-27T18:52:58",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 440,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "a46737c706a3277c3ee1848ed3aa094db9259086",
+        "files": [
+            "taskcluster/ci/test/reftest.yml",
+            "taskcluster/ci/test/web-platform.yml",
+            "taskcluster/ci/test/mochitest.yml",
+            "taskcluster/ci/test/xpcshell.yml"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-05-27T22:32:14",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 441,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "d7a48ce7714837b23a37cfd9554d7e167bd4d619",
+        "files": [
+            "taskcluster/taskgraph/manifests/firefox_nightly.yml"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-05-28T03:10:37",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 442,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "1447a540437e941f12d9da34505446c451e326ce",
+        "files": [
+            "editor/libeditor/tests/mochitest.ini",
+            "editor/libeditor/TextEditor.h",
+            "editor/libeditor/tests/test_nsIEditor_outputToString.html",
+            "editor/libeditor/TextEditSubActionHandler.cpp",
+            "editor/libeditor/EditorBase.cpp"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-06-01T18:34:04",
+        "inducing_commit_hash": [
+            "8b0a58d4ba6af3c5a4b61d4572660acd1049b103"
+        ]
+    },
+    {
+        "id": 443,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "83b421b611944af5c6eb39a2dc120510d1f6d09f",
+        "files": [
+            "testing/webdriver/src/server.rs"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-06-08T07:20:30",
+        "inducing_commit_hash": [
+            "5409d04df7bc3b902a8a3370a885689eb226df7d"
+        ]
+    },
+    {
+        "id": 444,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "60b06d8f35a3334344316219954be2cc9d07f033",
+        "files": [
+            "components/downloads/test/unit/test_DownloadList.js",
+            "toolkit/components/downloads/test/unit/test_DownloadList.js"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-06-08T09:08:27",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 445,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "50e7f8dde0ea63094ed6a3fc41b44d3a3fb73d2d",
+        "files": [
+            "toolkit/components/extensions/ExtensionPolicyService.cpp"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-06-09T05:08:58",
+        "inducing_commit_hash": [
+            "238da2f6fc13d066125f3ddaa9c670c7640cfdab"
+        ]
+    },
+    {
+        "id": 446,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "01d687d9e47750117d5ae13bc85eec114d62e0b1",
+        "files": [
+            "remote/shared/webdriver/Capabilities.jsm",
+            "testing/marionette/harness/marionette_harness/tests/unit/test_cli_arguments.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-06-09T11:54:58",
+        "inducing_commit_hash": [
+            "caa865d6a6964ccf74b5efe31e0443e047868068"
+        ]
+    },
+    {
+        "id": 447,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "4280ab8e932b7a27a13bc56199f14eeb7877a317",
+        "files": [
+            "toolkit/components/passwordmgr/test/unit/test_PasswordRulesManager_generatePassword.js"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-06-10T08:30:01",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 448,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "bea606e8a743d89b478abdb4f8abf2545abbc133",
+        "files": [
+            "python/mozperftest/mozperftest/runner.py",
+            "mozperftest/mozperftest/argparser.py",
+            "mozperftest/mozperftest/runner.py",
+            "mozperftest/mozperftest/script.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-06-23T09:00:56",
+        "inducing_commit_hash": [
+            "a37bc908e9d2c15f02e8b7ec00a687969aa31413"
+        ]
+    },
+    {
+        "id": 449,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "185583ee56ca32eca472bd8c087b69ac14c7b5ec",
+        "files": [
+            "js/src/builtin/TestingFunctions.cpp",
+            "js/src/jit-test/tests/parser/stencil-compile-invalid-argument.js"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-06-24T10:44:38",
+        "inducing_commit_hash": [
+            "ee2e5e32c7f60775404fbe56a65951c43666b48b"
+        ]
+    },
+    {
+        "id": 450,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "2a04c779a22aa72cd7c928877b7e1b1456b3e623",
+        "files": [
+            ".cron.yml"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-06-25T10:17:56",
+        "inducing_commit_hash": [
+            "c78ab5cc0014aa9c2c7048678536e569b53df5b4"
+        ]
+    },
+    {
+        "id": 451,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "f872a37d29acc5526ba371229c0d2a28ade13900",
+        "files": [
+            "taskcluster/ci/test/compiled.yml"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-06-25T15:38:46",
+        "inducing_commit_hash": [
+            "3ce10f29ab80540d3ebcde3556b906a245bcfbb8"
+        ]
+    },
+    {
+        "id": 452,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "5f80bec3b922da4906162950bacc74dbfe574abe",
+        "files": [
+            "taskcluster/ci/test/compiled.yml"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-06-25T15:38:46",
+        "inducing_commit_hash": [
+            "38ea98f6b2c4469c8499d13552f002e82ca8a8f5"
+        ]
+    },
+    {
+        "id": 453,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "74d0c440fc30504e380ee166fdf10e2eedc78365",
+        "files": [
+            "testing/mozharness/scripts/desktop_unittest.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-06-25T17:01:17",
+        "inducing_commit_hash": [
+            "2ae112fd1016e2f0f916b88022d09418016bfe9a"
+        ]
+    },
+    {
+        "id": 454,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "87b3b26c161654498187ffa8e4afd6088432f7f2",
+        "files": [
+            "testing/condprofile/requirements/base.txt",
+            "testing/perfdocs/generated/raptor.rst",
+            "taskcluster/ci/test/browsertime-desktop.yml",
+            "testing/condprofile/condprof/runner.py",
+            "taskcluster/ci/webrender/kind.yml"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-06-29T12:29:58",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 455,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "08342098fa71c51fe28df93100db2e988b6f4962",
+        "files": [
+            "testing/condprofile/requirements/base.txt",
+            "testing/perfdocs/generated/raptor.rst",
+            "taskcluster/ci/test/browsertime-desktop.yml",
+            "testing/condprofile/condprof/runner.py",
+            "taskcluster/ci/webrender/kind.yml"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-06-29T12:29:58",
+        "inducing_commit_hash": [
+            "fa7a673aaa697c9d2b61b7fae919c12d14507cdd"
+        ]
+    },
+    {
+        "id": 456,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "a52300ae10df82a67678802cf53b534396f7fd6f",
+        "files": [
+            "testing/condprofile/requirements/base.txt",
+            "testing/perfdocs/generated/raptor.rst",
+            "taskcluster/ci/test/browsertime-desktop.yml",
+            "testing/condprofile/condprof/runner.py",
+            "taskcluster/ci/webrender/kind.yml"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-06-29T12:29:58",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 457,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "46384da5dab9a98a1d4479b53dd3888d9d00eb7a",
+        "files": [
+            "testing/condprofile/requirements/base.txt",
+            "testing/perfdocs/generated/raptor.rst",
+            "taskcluster/ci/test/browsertime-desktop.yml",
+            "testing/condprofile/condprof/runner.py",
+            "taskcluster/ci/webrender/kind.yml"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-06-29T12:29:58",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 458,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "78bcf57e3957ea311e89554af311bf32d19414ee",
+        "files": [
+            "raptor/raptor/raptor.py",
+            "testing/raptor/raptor/cmdline.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-07-07T12:29:39",
+        "inducing_commit_hash": [
+            "44768471310bc1da37a6dbf79edeae54cdf7ec9d"
+        ]
+    },
+    {
+        "id": 459,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "74375895619f048824042e69b4b590cdad38498f",
+        "files": [
+            "remote/shared/RecommendedPreferences.jsm",
+            "remote/cdp/CDP.jsm",
+            "shared/RecommendedPreferences.jsm",
+            "webdriver-bidi/WebDriverBiDi.jsm",
+            "cdp/CDP.jsm",
+            "remote/shared/test/xpcshell/test_RecommendedPreferences.js",
+            "remote/webdriver-bidi/WebDriverBiDi.jsm"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-07-12T07:14:13",
+        "inducing_commit_hash": [
+            "f872eda8c42d728351e9c66c29d36d8d4008401b"
+        ]
+    },
+    {
+        "id": 460,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "45da846681e0fabf8d648e501620ede80da4715c",
+        "files": [
+            "remote/shared/RecommendedPreferences.jsm",
+            "remote/cdp/CDP.jsm",
+            "shared/RecommendedPreferences.jsm",
+            "webdriver-bidi/WebDriverBiDi.jsm",
+            "cdp/CDP.jsm",
+            "remote/shared/test/xpcshell/test_RecommendedPreferences.js",
+            "remote/webdriver-bidi/WebDriverBiDi.jsm"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-07-12T07:14:13",
+        "inducing_commit_hash": [
+            "3531745a36aa1e633d31f90f40b68d9f8be82aa2"
+        ]
+    },
+    {
+        "id": 461,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "29863b8557d73c2aa0d6dfb9a841ec39f9586c35",
+        "files": [
+            "remote/shared/RecommendedPreferences.jsm",
+            "remote/cdp/CDP.jsm",
+            "shared/RecommendedPreferences.jsm",
+            "webdriver-bidi/WebDriverBiDi.jsm",
+            "cdp/CDP.jsm",
+            "remote/shared/test/xpcshell/test_RecommendedPreferences.js",
+            "remote/webdriver-bidi/WebDriverBiDi.jsm"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-07-12T07:14:13",
+        "inducing_commit_hash": [
+            "5fb6271056f8f54b3e4cccd8ef9f42d48ae58413"
+        ]
+    },
+    {
+        "id": 462,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "c0c5b87604140578a8f46b90cd2f7dab813b2083",
+        "files": [
+            "testing/talos/talos/cmanager_linux.py",
+            "talos/talos/cmanager_linux.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-07-12T07:28:06",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 463,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "568ef572517c5df3373da8444e265b69386fc67e",
+        "files": [
+            "remote/cdp/test/browser/component/browser_agent.js",
+            "remote/components/rust/src/error.rs",
+            "remote/components/moz.build",
+            "remote/components/marionette.js",
+            "remote/components/rust/moz.build",
+            "remote/components/rust/src/lib.rs",
+            "remote/components/rust/RemoteAgentHandler.h",
+            "remote/cdp/test/browser/head.js",
+            "cdp/test/browser/component/browser_agent.js",
+            "components/RemoteAgent.jsm",
+            "remote/cdp/CDP.jsm",
+            "remote/components/rust/src/handler.rs",
+            "remote/marionette/doc/CodeStyle.md",
+            "remote/components/components.conf",
+            "toolkit/library/rust/gkrust-features.mozbuild",
+            "Cargo.lock",
+            "remote/components/rust/RemoteAgentHandler.cpp",
+            "browser/installer/package-manifest.in",
+            "remote/webdriver-bidi/WebDriverBiDi.jsm",
+            "toolkit/library/rust/shared/lib.rs",
+            "mobile/android/installer/package-manifest.in",
+            "toolkit/library/rust/Cargo.toml",
+            "toolkit/library/gtest/rust/Cargo.toml",
+            "remote/components/marionette.manifest",
+            "toolkit/library/rust/shared/Cargo.toml",
+            "remote/components/RemoteAgent.jsm",
+            "remote/components/Marionette.jsm",
+            "remote/doc/Building.md",
+            "remote/components/rust/src/remote_agent.rs",
+            "remote/jar.mn",
+            "remote/components/rust/Cargo.toml"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-07-15T12:34:07",
+        "inducing_commit_hash": [
+            "1180d10aa6fe4b6baf93de2deb84a1948aefed4d"
+        ]
+    },
+    {
+        "id": 464,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "ca0fd3de16b5c4ee921829ce8a2076c7c8cc43c5",
+        "files": [
+            "remote/cdp/test/browser/component/browser_agent.js",
+            "remote/components/rust/src/error.rs",
+            "remote/components/moz.build",
+            "remote/components/marionette.js",
+            "remote/components/rust/moz.build",
+            "remote/components/rust/src/lib.rs",
+            "remote/components/rust/RemoteAgentHandler.h",
+            "remote/cdp/test/browser/head.js",
+            "cdp/test/browser/component/browser_agent.js",
+            "components/RemoteAgent.jsm",
+            "remote/cdp/CDP.jsm",
+            "remote/components/rust/src/handler.rs",
+            "remote/marionette/doc/CodeStyle.md",
+            "remote/components/components.conf",
+            "toolkit/library/rust/gkrust-features.mozbuild",
+            "Cargo.lock",
+            "remote/components/rust/RemoteAgentHandler.cpp",
+            "browser/installer/package-manifest.in",
+            "remote/webdriver-bidi/WebDriverBiDi.jsm",
+            "toolkit/library/rust/shared/lib.rs",
+            "mobile/android/installer/package-manifest.in",
+            "toolkit/library/rust/Cargo.toml",
+            "toolkit/library/gtest/rust/Cargo.toml",
+            "remote/components/marionette.manifest",
+            "toolkit/library/rust/shared/Cargo.toml",
+            "remote/components/RemoteAgent.jsm",
+            "remote/components/Marionette.jsm",
+            "remote/doc/Building.md",
+            "remote/components/rust/src/remote_agent.rs",
+            "remote/jar.mn",
+            "remote/components/rust/Cargo.toml"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-07-15T12:34:07",
+        "inducing_commit_hash": [
+            "5fb6271056f8f54b3e4cccd8ef9f42d48ae58413"
+        ]
+    },
+    {
+        "id": 465,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "16af717b832728dee6b38f1a2d2328528e7a128d",
+        "files": [
+            "remote/cdp/test/browser/component/browser_agent.js",
+            "remote/components/rust/src/error.rs",
+            "remote/components/moz.build",
+            "remote/components/marionette.js",
+            "remote/components/rust/moz.build",
+            "remote/components/rust/src/lib.rs",
+            "remote/components/rust/RemoteAgentHandler.h",
+            "remote/cdp/test/browser/head.js",
+            "cdp/test/browser/component/browser_agent.js",
+            "components/RemoteAgent.jsm",
+            "remote/cdp/CDP.jsm",
+            "remote/components/rust/src/handler.rs",
+            "remote/marionette/doc/CodeStyle.md",
+            "remote/components/components.conf",
+            "toolkit/library/rust/gkrust-features.mozbuild",
+            "Cargo.lock",
+            "remote/components/rust/RemoteAgentHandler.cpp",
+            "browser/installer/package-manifest.in",
+            "remote/webdriver-bidi/WebDriverBiDi.jsm",
+            "toolkit/library/rust/shared/lib.rs",
+            "mobile/android/installer/package-manifest.in",
+            "toolkit/library/rust/Cargo.toml",
+            "toolkit/library/gtest/rust/Cargo.toml",
+            "remote/components/marionette.manifest",
+            "toolkit/library/rust/shared/Cargo.toml",
+            "remote/components/RemoteAgent.jsm",
+            "remote/components/Marionette.jsm",
+            "remote/doc/Building.md",
+            "remote/components/rust/src/remote_agent.rs",
+            "remote/jar.mn",
+            "remote/components/rust/Cargo.toml"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-07-15T12:34:07",
+        "inducing_commit_hash": [
+            "83977995819df8a92f544685baebbf33fab5bc4a"
+        ]
+    },
+    {
+        "id": 466,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "a7f0c83fce404c12a7536843b9a56e5e101ad4d9",
+        "files": [
+            "remote/cdp/test/browser/component/browser_agent.js",
+            "remote/components/rust/src/error.rs",
+            "remote/components/moz.build",
+            "remote/components/marionette.js",
+            "remote/components/rust/moz.build",
+            "remote/components/rust/src/lib.rs",
+            "remote/components/rust/RemoteAgentHandler.h",
+            "remote/cdp/test/browser/head.js",
+            "cdp/test/browser/component/browser_agent.js",
+            "components/RemoteAgent.jsm",
+            "remote/cdp/CDP.jsm",
+            "remote/components/rust/src/handler.rs",
+            "remote/marionette/doc/CodeStyle.md",
+            "remote/components/components.conf",
+            "toolkit/library/rust/gkrust-features.mozbuild",
+            "Cargo.lock",
+            "remote/components/rust/RemoteAgentHandler.cpp",
+            "browser/installer/package-manifest.in",
+            "remote/webdriver-bidi/WebDriverBiDi.jsm",
+            "toolkit/library/rust/shared/lib.rs",
+            "mobile/android/installer/package-manifest.in",
+            "toolkit/library/rust/Cargo.toml",
+            "toolkit/library/gtest/rust/Cargo.toml",
+            "remote/components/marionette.manifest",
+            "toolkit/library/rust/shared/Cargo.toml",
+            "remote/components/RemoteAgent.jsm",
+            "remote/components/Marionette.jsm",
+            "remote/doc/Building.md",
+            "remote/components/rust/src/remote_agent.rs",
+            "remote/jar.mn",
+            "remote/components/rust/Cargo.toml"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-07-15T12:34:07",
+        "inducing_commit_hash": [
+            "5fb6271056f8f54b3e4cccd8ef9f42d48ae58413"
+        ]
+    },
+    {
+        "id": 467,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "1a5255ce556adac2ad9b6decb47487745333aecb",
+        "files": [
+            "remote/cdp/test/browser/component/browser_agent.js",
+            "remote/components/rust/src/error.rs",
+            "remote/components/moz.build",
+            "remote/components/marionette.js",
+            "remote/components/rust/moz.build",
+            "remote/components/rust/src/lib.rs",
+            "remote/components/rust/RemoteAgentHandler.h",
+            "remote/cdp/test/browser/head.js",
+            "cdp/test/browser/component/browser_agent.js",
+            "components/RemoteAgent.jsm",
+            "remote/cdp/CDP.jsm",
+            "remote/components/rust/src/handler.rs",
+            "remote/marionette/doc/CodeStyle.md",
+            "remote/components/components.conf",
+            "toolkit/library/rust/gkrust-features.mozbuild",
+            "Cargo.lock",
+            "remote/components/rust/RemoteAgentHandler.cpp",
+            "browser/installer/package-manifest.in",
+            "remote/webdriver-bidi/WebDriverBiDi.jsm",
+            "toolkit/library/rust/shared/lib.rs",
+            "mobile/android/installer/package-manifest.in",
+            "toolkit/library/rust/Cargo.toml",
+            "toolkit/library/gtest/rust/Cargo.toml",
+            "remote/components/marionette.manifest",
+            "toolkit/library/rust/shared/Cargo.toml",
+            "remote/components/RemoteAgent.jsm",
+            "remote/components/Marionette.jsm",
+            "remote/doc/Building.md",
+            "remote/components/rust/src/remote_agent.rs",
+            "remote/jar.mn",
+            "remote/components/rust/Cargo.toml"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-07-15T12:34:07",
+        "inducing_commit_hash": [
+            "4f5d8d5beb997179b85c7cac86c107bcffe12c4d"
+        ]
+    },
+    {
+        "id": 468,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "0bdf905ed3df00e056299d6b3ba89ea2301983fe",
+        "files": [
+            "remote/cdp/test/browser/component/browser_agent.js",
+            "remote/components/rust/src/error.rs",
+            "remote/components/moz.build",
+            "remote/components/marionette.js",
+            "remote/components/rust/moz.build",
+            "remote/components/rust/src/lib.rs",
+            "remote/components/rust/RemoteAgentHandler.h",
+            "remote/cdp/test/browser/head.js",
+            "cdp/test/browser/component/browser_agent.js",
+            "components/RemoteAgent.jsm",
+            "remote/cdp/CDP.jsm",
+            "remote/components/rust/src/handler.rs",
+            "remote/marionette/doc/CodeStyle.md",
+            "remote/components/components.conf",
+            "toolkit/library/rust/gkrust-features.mozbuild",
+            "Cargo.lock",
+            "remote/components/rust/RemoteAgentHandler.cpp",
+            "browser/installer/package-manifest.in",
+            "remote/webdriver-bidi/WebDriverBiDi.jsm",
+            "toolkit/library/rust/shared/lib.rs",
+            "mobile/android/installer/package-manifest.in",
+            "toolkit/library/rust/Cargo.toml",
+            "toolkit/library/gtest/rust/Cargo.toml",
+            "remote/components/marionette.manifest",
+            "toolkit/library/rust/shared/Cargo.toml",
+            "remote/components/RemoteAgent.jsm",
+            "remote/components/Marionette.jsm",
+            "remote/doc/Building.md",
+            "remote/components/rust/src/remote_agent.rs",
+            "remote/jar.mn",
+            "remote/components/rust/Cargo.toml"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-07-15T12:34:07",
+        "inducing_commit_hash": [
+            "5fb6271056f8f54b3e4cccd8ef9f42d48ae58413"
+        ]
+    },
+    {
+        "id": 469,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "2d416c199a00921eeb3bc93dfa4de3340697ee90",
+        "files": [
+            "testing/raptor/raptor/perfdocs/contributing.rst",
+            "testing/perfdocs/generated/webextension.rst",
+            "testing/perfdocs/generated/test-list.rst",
+            "testing/perfdocs/generated/debugging.rst",
+            "testing/raptor/raptor/perfdocs/browsertime.rst",
+            "testing/raptor/raptor/perfdocs/index.rst",
+            "testing/raptor/raptor/perfdocs/test-list.rst",
+            "testing/perfdocs/generated/raptor.rst",
+            "testing/raptor/raptor/perfdocs/webextension.rst",
+            "testing/raptor/raptor/perfdocs/debugging.rst",
+            "testing/perfdocs/generated/contributing.rst",
+            "testing/perfdocs/generated/browsertime.rst"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-07-16T14:17:48",
+        "inducing_commit_hash": [
+            "3c709da9e029733571077537ac7c78bc24f4522c"
+        ]
+    },
+    {
+        "id": 470,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "5d72545c1b9f5401fce51012b15692648df788c8",
+        "files": [
+            "web-platform/tests/webdriver/tests/bidi/new_session/connect.py",
+            "web-platform/meta/webdriver/tests/bidi/new_session/connect.py.ini",
+            "testing/web-platform/meta/webdriver/tests/bidi/new_session/connect.py.ini"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-07-17T13:31:44",
+        "inducing_commit_hash": [
+            "ec3c6f52f953ebd7c4aba7d5610a8992990bd915"
+        ]
+    },
+    {
+        "id": 471,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "71646af1100cada41be808f159855f1659fdbfe6",
+        "files": [
+            "testing/web-platform/tests/webdriver/tests/element_click/__init__.py",
+            "remote/marionette/modal.js",
+            "remote/marionette/test/xpcshell/test_modal.js",
+            "testing/web-platform/tests/webdriver/tests/support/helpers.py",
+            "testing/web-platform/tests/webdriver/tests/element_click/navigate.py",
+            "testing/web-platform/tests/webdriver/tests/accept_alert/accept.py",
+            "testing/web-platform/tests/webdriver/tests/dismiss_alert/dismiss.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-07-23T09:10:09",
+        "inducing_commit_hash": [
+            "bd0a65c7c95e401810d90446214c247cfb203be1"
+        ]
+    },
+    {
+        "id": 472,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "5348d5cf69a387bee7bb0325dbca5a6fccc37232",
+        "files": [
+            "testing/web-platform/tests/webdriver/tests/element_click/__init__.py",
+            "remote/marionette/modal.js",
+            "remote/marionette/test/xpcshell/test_modal.js",
+            "testing/web-platform/tests/webdriver/tests/support/helpers.py",
+            "testing/web-platform/tests/webdriver/tests/element_click/navigate.py",
+            "testing/web-platform/tests/webdriver/tests/accept_alert/accept.py",
+            "testing/web-platform/tests/webdriver/tests/dismiss_alert/dismiss.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-07-23T09:10:09",
+        "inducing_commit_hash": [
+            "bff45817f9accf369fb4fe9a3d4c7804d0de07b8"
+        ]
+    },
+    {
+        "id": 473,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "22019af1db92a2dd1c58ffeb7c698a5fd63b50c5",
+        "files": [
+            "mozharness/scripts/release/update-verify-config-creator.py",
+            "mozharness/mozharness/base/script.py",
+            "testing/mozharness/scripts/release/update-verify-config-creator.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-07-23T14:18:24",
+        "inducing_commit_hash": [
+            "d6163c106f202a93de817d7c3ed27ba42d28ccad"
+        ]
+    },
+    {
+        "id": 474,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "7bbee80fd65e9231ba5e401c2278c7b0b4921ea0",
+        "files": [
+            "DecodePool.cpp",
+            "DecodedSurfaceProvider.cpp",
+            "SurfaceCache.cpp",
+            "image/SurfaceCache.cpp",
+            "image/DecodedSurfaceProvider.cpp"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-07-27T00:13:29",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 475,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "6c03490fa67c4b9a2203553c2632c4d0aa84c561",
+        "files": [
+            "DecodePool.cpp",
+            "DecodedSurfaceProvider.cpp",
+            "SurfaceCache.cpp",
+            "image/SurfaceCache.cpp",
+            "image/DecodedSurfaceProvider.cpp"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-07-27T00:13:29",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 476,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "445c92340ef28c79dcfb3336b27d2a713387aab4",
+        "files": [
+            "testing/xpcshell/example/unit/xpcshell.ini",
+            "testing/xpcshell/example/unit/test_prefs_defaults_and_file.js",
+            "toolkit/components/extensions/test/xpcshell/xpcshell-common.ini",
+            "components/extensions/test/xpcshell/xpcshell.ini",
+            "testing/xpcshell/example/unit/test_prefs_defaults_included.js",
+            "testing/xpcshell/runxpcshelltests.py",
+            "testing/xpcshell/example/unit/test_prefs_defaults.js",
+            "xpcshell/remotexpcshelltests.py",
+            "testing/xpcshell/example/unit/xpcshell-with-prefs.ini",
+            "testing/xpcshell/example/unit/test_prefs_no_defaults_with_file.js",
+            "components/extensions/test/xpcshell/test_ext_schema.js",
+            "testing/xpcshell/remotexpcshelltests.py",
+            "testing/xpcshell/example/unit/prefs_test_common.js",
+            "testing/xpcshell/example/moz.build",
+            "testing/xpcshell/example/unit/xpcshell-included-with-prefs.ini",
+            "xpcshell/selftest.py",
+            "xpcshell/runxpcshelltests.py",
+            "testing/xpcshell/example/unit/test_prefs_no_defaults.js",
+            "toolkit/components/extensions/test/xpcshell/test_ext_cookieBehaviors.js"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-07-30T18:22:48",
+        "inducing_commit_hash": [
+            "3e8f69574b3eea684cca19350fd230c1d1b6a69e"
+        ]
+    },
+    {
+        "id": 477,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "e635cef0f5dab8ccca5749a89979858c70474bd6",
+        "files": [
+            "testing/xpcshell/example/unit/xpcshell.ini",
+            "testing/xpcshell/example/unit/test_prefs_defaults_and_file.js",
+            "toolkit/components/extensions/test/xpcshell/xpcshell-common.ini",
+            "components/extensions/test/xpcshell/xpcshell.ini",
+            "testing/xpcshell/example/unit/test_prefs_defaults_included.js",
+            "testing/xpcshell/runxpcshelltests.py",
+            "testing/xpcshell/example/unit/test_prefs_defaults.js",
+            "xpcshell/remotexpcshelltests.py",
+            "testing/xpcshell/example/unit/xpcshell-with-prefs.ini",
+            "testing/xpcshell/example/unit/test_prefs_no_defaults_with_file.js",
+            "components/extensions/test/xpcshell/test_ext_schema.js",
+            "testing/xpcshell/remotexpcshelltests.py",
+            "testing/xpcshell/example/unit/prefs_test_common.js",
+            "testing/xpcshell/example/moz.build",
+            "testing/xpcshell/example/unit/xpcshell-included-with-prefs.ini",
+            "xpcshell/selftest.py",
+            "xpcshell/runxpcshelltests.py",
+            "testing/xpcshell/example/unit/test_prefs_no_defaults.js",
+            "toolkit/components/extensions/test/xpcshell/test_ext_cookieBehaviors.js"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-07-30T18:22:48",
+        "inducing_commit_hash": [
+            "3e8f69574b3eea684cca19350fd230c1d1b6a69e"
+        ]
+    },
+    {
+        "id": 478,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "b8e8ed5b9adb0c37defc91f6cb2cb440cf8de69b",
+        "files": [
+            "testing/xpcshell/example/unit/xpcshell.ini",
+            "testing/xpcshell/example/unit/test_prefs_defaults_and_file.js",
+            "toolkit/components/extensions/test/xpcshell/xpcshell-common.ini",
+            "components/extensions/test/xpcshell/xpcshell.ini",
+            "testing/xpcshell/example/unit/test_prefs_defaults_included.js",
+            "testing/xpcshell/runxpcshelltests.py",
+            "testing/xpcshell/example/unit/test_prefs_defaults.js",
+            "xpcshell/remotexpcshelltests.py",
+            "testing/xpcshell/example/unit/xpcshell-with-prefs.ini",
+            "testing/xpcshell/example/unit/test_prefs_no_defaults_with_file.js",
+            "components/extensions/test/xpcshell/test_ext_schema.js",
+            "testing/xpcshell/remotexpcshelltests.py",
+            "testing/xpcshell/example/unit/prefs_test_common.js",
+            "testing/xpcshell/example/moz.build",
+            "testing/xpcshell/example/unit/xpcshell-included-with-prefs.ini",
+            "xpcshell/selftest.py",
+            "xpcshell/runxpcshelltests.py",
+            "testing/xpcshell/example/unit/test_prefs_no_defaults.js",
+            "toolkit/components/extensions/test/xpcshell/test_ext_cookieBehaviors.js"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-07-30T18:22:48",
+        "inducing_commit_hash": [
+            "3e8f69574b3eea684cca19350fd230c1d1b6a69e"
+        ]
+    },
+    {
+        "id": 479,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "902c1b357a953c2b3a7c889510e3affd6d25be9b",
+        "files": [
+            "testing/geckodriver/src/marionette.rs",
+            "geckodriver/src/marionette.rs"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-08-02T07:55:40",
+        "inducing_commit_hash": [
+            "1e599071eb198a068270c6c8405bbad94a3c38d6"
+        ]
+    },
+    {
+        "id": 480,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "6dbf8b033621891d5c0d53fccadfd672c796179e",
+        "files": [
+            "components/Marionette.jsm",
+            "components/RemoteAgent.jsm",
+            "remote/components/RemoteAgent.jsm",
+            "remote/components/Marionette.jsm",
+            "testing/marionette/harness/marionette_harness/tests/unit/test_cli_arguments.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-08-04T16:41:13",
+        "inducing_commit_hash": [
+            "ec3c6f52f953ebd7c4aba7d5610a8992990bd915"
+        ]
+    },
+    {
+        "id": 481,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "e6eac8d180694a274c43f207cdccad34ed437b8f",
+        "files": [
+            "testing/web-platform/meta/scroll-to-text-fragment/force-load-at-top.html.ini",
+            "web-platform/tests/scroll-to-text-fragment/find-range-from-text-directive.html",
+            "web-platform/tests/scroll-to-text-fragment/force-load-at-top.html"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-08-06T06:01:43",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 482,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "4008152f52c15caf905cd81417a67544c33f7c23",
+        "files": [
+            "web-platform/tests/webdriver/tests/bidi/session_subscribe/subscribe.py",
+            "testing/web-platform/meta/webdriver/tests/bidi/session_subscribe/subscribe.py.ini"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-08-13T12:42:58",
+        "inducing_commit_hash": [
+            "f7590d57277540e0a4c035571aa4d713b3f285dc"
+        ]
+    },
+    {
+        "id": 483,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "9297e3cdca0c9064ef9daf401a8d47f5a25ffa15",
+        "files": [
+            "testing/web-platform/tests/common/CustomCorsResponse.py",
+            "testing/web-platform/tests/resource-timing/TAO-match.html",
+            "testing/web-platform/tests/resource-timing/resources/tao-response.js",
+            "testing/web-platform/meta/resource-timing/TAO-match.html.ini",
+            "testing/web-platform/tests/common/custom-cors-response.js",
+            "web-platform/tests/resource-timing/TAO-match.html"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-08-18T21:15:01",
+        "inducing_commit_hash": [
+            "f6f29ef1c6a70014d56d2b06cb30eb5b26eeb36b"
+        ]
+    },
+    {
+        "id": 484,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "556d85e0b1587a0491e2cce2863109bbb2d2635f",
+        "files": [
+            "testing/web-platform/tests/common/CustomCorsResponse.py",
+            "testing/web-platform/tests/resource-timing/TAO-match.html",
+            "testing/web-platform/tests/resource-timing/resources/tao-response.js",
+            "testing/web-platform/meta/resource-timing/TAO-match.html.ini",
+            "testing/web-platform/tests/common/custom-cors-response.js",
+            "web-platform/tests/resource-timing/TAO-match.html"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-08-18T21:15:01",
+        "inducing_commit_hash": [
+            "389e134970958c32440c1b46f3be6d511a1fc3a4"
+        ]
+    },
+    {
+        "id": 485,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "68ce5227bc9cb6d58561916e87fcbbd7d994b7a9",
+        "files": [
+            "toolkit/moz.configure"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-08-30T22:17:34",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 486,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "00502eeb68dc93042d968443e3953c363de76013",
+        "files": [
+            "build/clang-plugin/mozsearch-plugin/MozsearchIndexer.cpp"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-08-31T17:27:29",
+        "inducing_commit_hash": [
+            "f12b0cd063643905a56f2f77d0cbc56bc32480b8"
+        ]
+    },
+    {
+        "id": 487,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "e144821033dff2f654679cce0e912676c2742adc",
+        "files": [
+            "testing/raptor/raptor/browsertime/base.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-09-02T08:58:35",
+        "inducing_commit_hash": [
+            "935c5606f5e43d4db089af5fca33ada6fcfc9e6f"
+        ]
+    },
+    {
+        "id": 488,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "f8dfb0c6bbb3799cb5ae6fa6b4265e0983258c98",
+        "files": [
+            "web-platform/tests/secure-payment-confirmation/secure-payment-confirmation-enrollment.https.html",
+            "web-platform/tests/secure-payment-confirmation/secure-payment-confirmation.tentative.https.html",
+            "testing/web-platform/meta/secure-payment-confirmation/secure-payment-confirmation-enrollment.https.html.ini"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-09-03T06:08:42",
+        "inducing_commit_hash": [
+            "dff70c807f3ecbbd864d96b25bdf0e09d2ed9a46"
+        ]
+    },
+    {
+        "id": 489,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "6bd15f79465279a9bfbaea320ea1d0816dc7d4af",
+        "files": [
+            "ci/test/awsy.yml",
+            "taskcluster/ci/test/awsy.yml"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-09-06T17:14:46",
+        "inducing_commit_hash": [
+            "17bbc0a2f02d03caee1c1ef64cba186d0d232b4b"
+        ]
+    },
+    {
+        "id": 490,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "b747deb32c9f348124ae46a4f78717dd67908471",
+        "files": [
+            "third_party/dav1d/tools/input/parse.h",
+            "third_party/dav1d/tools/output/null.c",
+            "third_party/dav1d/examples/dp_renderer_placebo.c",
+            "third_party/dav1d/tools/dav1d.rc.in",
+            "third_party/dav1d/tests/checkasm/itx.c",
+            "third_party/dav1d/package/crossfiles/x86_64-w64-mingw32.meson",
+            "third_party/dav1d/tests/libfuzzer/meson.build",
+            "third_party/dav1d/tools/input/section5.c",
+            "third_party/dav1d/tests/checkasm/mc.c",
+            "third_party/dav1d/tools/output/output.c",
+            "mozbuild/mozbuild/vendor/moz.build",
+            "third_party/dav1d/examples/dav1dplay.c",
+            "third_party/dav1d/tests/checkasm/loopfilter.c",
+            "third_party/dav1d/tests/checkasm/filmgrain.c",
+            "third_party/dav1d/package/snap/snapcraft.yaml",
+            "third_party/dav1d/tools/output/yuv.c",
+            "media/libdav1d/autovendored_sources.mozbuild",
+            "third_party/dav1d/tests/checkasm/arm/checkasm_64.S",
+            "third_party/dav1d/tests/checkasm/ipred.c",
+            "third_party/dav1d/tests/libfuzzer/alloc_fail.h",
+            "third_party/dav1d/tests/libfuzzer/dav1d_fuzzer.h",
+            "third_party/dav1d/tools/dav1d_cli_parse.c",
+            "third_party/dav1d/tools/output/xxhash.c",
+            "third_party/dav1d/tools/input/input.h",
+            "third_party/dav1d/package/crossfiles/arm-android.meson",
+            "third_party/dav1d/tools/dav1d.c",
+            "third_party/dav1d/package/crossfiles/i686-w64-mingw32.meson",
+            "python/mozbuild/mozbuild/vendor/rewrite_mozbuild.py",
+            "third_party/dav1d/tools/meson.build",
+            "third_party/dav1d/package/crossfiles/aarch64-android.meson",
+            "third_party/dav1d/tests/libfuzzer/main.c",
+            "third_party/dav1d/tests/meson.build",
+            "third_party/dav1d/tests/checkasm/checkasm.h",
+            "third_party/dav1d/doc/PATENTS",
+            "third_party/dav1d/package/crossfiles/i686-linux32.meson",
+            "third_party/dav1d/tools/input/ivf.c",
+            "third_party/dav1d/tools/input/annexb.c",
+            "third_party/dav1d/tools/output/md5.c",
+            "third_party/dav1d/tests/checkasm/msac.c",
+            "media/libdav1d/moz.yaml",
+            "third_party/dav1d/tools/dav1d_cli_parse.h",
+            "third_party/dav1d/doc/dav1d_logo.svg",
+            "third_party/dav1d/tests/libfuzzer/alloc_fail.c",
+            "third_party/dav1d/tools/output/muxer.h",
+            "third_party/dav1d/tests/checkasm/cdef.c",
+            "third_party/dav1d/tests/header_test.c",
+            "third_party/dav1d/tests/checkasm/looprestoration.c",
+            "third_party/dav1d/examples/dp_fifo.h",
+            "third_party/dav1d/doc/meson.build",
+            "third_party/dav1d/tests/seek_stress.c",
+            "third_party/dav1d/tools/input/demuxer.h",
+            "third_party/dav1d/tests/checkasm/arm/checkasm_32.S",
+            "third_party/dav1d/doc/Doxyfile.in",
+            "third_party/dav1d/tools/compat/getopt.c",
+            "third_party/dav1d/examples/meson.build",
+            "third_party/dav1d/tools/output/y4m2.c",
+            "third_party/dav1d/tests/checkasm/checkasm.c",
+            "third_party/dav1d/doc/dav1d_logo.png",
+            "third_party/dav1d/tools/input/input.c",
+            "third_party/dav1d/examples/dp_renderer_sdl.c",
+            "third_party/dav1d/examples/dp_fifo.c",
+            "third_party/dav1d/tests/checkasm/x86/checkasm.asm",
+            "third_party/dav1d/tests/libfuzzer/dav1d_fuzzer.c",
+            "third_party/dav1d/tools/dav1d.manifest",
+            "third_party/dav1d/examples/dp_renderer.h",
+            "third_party/dav1d/tools/output/output.h"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-09-07T16:17:54",
+        "inducing_commit_hash": [
+            "99b5a8181916507dc7dd77e991895ca9ed70937f"
+        ]
+    },
+    {
+        "id": 491,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "bf100d2b78db46a946cda6b6590b008212f0b588",
+        "files": [
+            "third_party/dav1d/tools/input/parse.h",
+            "third_party/dav1d/tools/output/null.c",
+            "third_party/dav1d/examples/dp_renderer_placebo.c",
+            "third_party/dav1d/tools/dav1d.rc.in",
+            "third_party/dav1d/tests/checkasm/itx.c",
+            "third_party/dav1d/package/crossfiles/x86_64-w64-mingw32.meson",
+            "third_party/dav1d/tests/libfuzzer/meson.build",
+            "third_party/dav1d/tools/input/section5.c",
+            "third_party/dav1d/tests/checkasm/mc.c",
+            "third_party/dav1d/tools/output/output.c",
+            "mozbuild/mozbuild/vendor/moz.build",
+            "third_party/dav1d/examples/dav1dplay.c",
+            "third_party/dav1d/tests/checkasm/loopfilter.c",
+            "third_party/dav1d/tests/checkasm/filmgrain.c",
+            "third_party/dav1d/package/snap/snapcraft.yaml",
+            "third_party/dav1d/tools/output/yuv.c",
+            "media/libdav1d/autovendored_sources.mozbuild",
+            "third_party/dav1d/tests/checkasm/arm/checkasm_64.S",
+            "third_party/dav1d/tests/checkasm/ipred.c",
+            "third_party/dav1d/tests/libfuzzer/alloc_fail.h",
+            "third_party/dav1d/tests/libfuzzer/dav1d_fuzzer.h",
+            "third_party/dav1d/tools/dav1d_cli_parse.c",
+            "third_party/dav1d/tools/output/xxhash.c",
+            "third_party/dav1d/tools/input/input.h",
+            "third_party/dav1d/package/crossfiles/arm-android.meson",
+            "third_party/dav1d/tools/dav1d.c",
+            "third_party/dav1d/package/crossfiles/i686-w64-mingw32.meson",
+            "python/mozbuild/mozbuild/vendor/rewrite_mozbuild.py",
+            "third_party/dav1d/tools/meson.build",
+            "third_party/dav1d/package/crossfiles/aarch64-android.meson",
+            "third_party/dav1d/tests/libfuzzer/main.c",
+            "third_party/dav1d/tests/meson.build",
+            "third_party/dav1d/tests/checkasm/checkasm.h",
+            "third_party/dav1d/doc/PATENTS",
+            "third_party/dav1d/package/crossfiles/i686-linux32.meson",
+            "third_party/dav1d/tools/input/ivf.c",
+            "third_party/dav1d/tools/input/annexb.c",
+            "third_party/dav1d/tools/output/md5.c",
+            "third_party/dav1d/tests/checkasm/msac.c",
+            "media/libdav1d/moz.yaml",
+            "third_party/dav1d/tools/dav1d_cli_parse.h",
+            "third_party/dav1d/doc/dav1d_logo.svg",
+            "third_party/dav1d/tests/libfuzzer/alloc_fail.c",
+            "third_party/dav1d/tools/output/muxer.h",
+            "third_party/dav1d/tests/checkasm/cdef.c",
+            "third_party/dav1d/tests/header_test.c",
+            "third_party/dav1d/tests/checkasm/looprestoration.c",
+            "third_party/dav1d/examples/dp_fifo.h",
+            "third_party/dav1d/doc/meson.build",
+            "third_party/dav1d/tests/seek_stress.c",
+            "third_party/dav1d/tools/input/demuxer.h",
+            "third_party/dav1d/tests/checkasm/arm/checkasm_32.S",
+            "third_party/dav1d/doc/Doxyfile.in",
+            "third_party/dav1d/tools/compat/getopt.c",
+            "third_party/dav1d/examples/meson.build",
+            "third_party/dav1d/tools/output/y4m2.c",
+            "third_party/dav1d/tests/checkasm/checkasm.c",
+            "third_party/dav1d/doc/dav1d_logo.png",
+            "third_party/dav1d/tools/input/input.c",
+            "third_party/dav1d/examples/dp_renderer_sdl.c",
+            "third_party/dav1d/examples/dp_fifo.c",
+            "third_party/dav1d/tests/checkasm/x86/checkasm.asm",
+            "third_party/dav1d/tests/libfuzzer/dav1d_fuzzer.c",
+            "third_party/dav1d/tools/dav1d.manifest",
+            "third_party/dav1d/examples/dp_renderer.h",
+            "third_party/dav1d/tools/output/output.h"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-09-07T16:17:54",
+        "inducing_commit_hash": [
+            "341f68be81f51386c5d25bffd266b854d4793c3d"
+        ]
+    },
+    {
+        "id": 492,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "48939b38f6c07ef9948c84174c01e80ebd6e24f7",
+        "files": [
+            "third_party/dav1d/tools/input/parse.h",
+            "third_party/dav1d/tools/output/null.c",
+            "third_party/dav1d/examples/dp_renderer_placebo.c",
+            "third_party/dav1d/tools/dav1d.rc.in",
+            "third_party/dav1d/tests/checkasm/itx.c",
+            "third_party/dav1d/package/crossfiles/x86_64-w64-mingw32.meson",
+            "third_party/dav1d/tests/libfuzzer/meson.build",
+            "third_party/dav1d/tools/input/section5.c",
+            "third_party/dav1d/tests/checkasm/mc.c",
+            "third_party/dav1d/tools/output/output.c",
+            "mozbuild/mozbuild/vendor/moz.build",
+            "third_party/dav1d/examples/dav1dplay.c",
+            "third_party/dav1d/tests/checkasm/loopfilter.c",
+            "third_party/dav1d/tests/checkasm/filmgrain.c",
+            "third_party/dav1d/package/snap/snapcraft.yaml",
+            "third_party/dav1d/tools/output/yuv.c",
+            "media/libdav1d/autovendored_sources.mozbuild",
+            "third_party/dav1d/tests/checkasm/arm/checkasm_64.S",
+            "third_party/dav1d/tests/checkasm/ipred.c",
+            "third_party/dav1d/tests/libfuzzer/alloc_fail.h",
+            "third_party/dav1d/tests/libfuzzer/dav1d_fuzzer.h",
+            "third_party/dav1d/tools/dav1d_cli_parse.c",
+            "third_party/dav1d/tools/output/xxhash.c",
+            "third_party/dav1d/tools/input/input.h",
+            "third_party/dav1d/package/crossfiles/arm-android.meson",
+            "third_party/dav1d/tools/dav1d.c",
+            "third_party/dav1d/package/crossfiles/i686-w64-mingw32.meson",
+            "python/mozbuild/mozbuild/vendor/rewrite_mozbuild.py",
+            "third_party/dav1d/tools/meson.build",
+            "third_party/dav1d/package/crossfiles/aarch64-android.meson",
+            "third_party/dav1d/tests/libfuzzer/main.c",
+            "third_party/dav1d/tests/meson.build",
+            "third_party/dav1d/tests/checkasm/checkasm.h",
+            "third_party/dav1d/doc/PATENTS",
+            "third_party/dav1d/package/crossfiles/i686-linux32.meson",
+            "third_party/dav1d/tools/input/ivf.c",
+            "third_party/dav1d/tools/input/annexb.c",
+            "third_party/dav1d/tools/output/md5.c",
+            "third_party/dav1d/tests/checkasm/msac.c",
+            "media/libdav1d/moz.yaml",
+            "third_party/dav1d/tools/dav1d_cli_parse.h",
+            "third_party/dav1d/doc/dav1d_logo.svg",
+            "third_party/dav1d/tests/libfuzzer/alloc_fail.c",
+            "third_party/dav1d/tools/output/muxer.h",
+            "third_party/dav1d/tests/checkasm/cdef.c",
+            "third_party/dav1d/tests/header_test.c",
+            "third_party/dav1d/tests/checkasm/looprestoration.c",
+            "third_party/dav1d/examples/dp_fifo.h",
+            "third_party/dav1d/doc/meson.build",
+            "third_party/dav1d/tests/seek_stress.c",
+            "third_party/dav1d/tools/input/demuxer.h",
+            "third_party/dav1d/tests/checkasm/arm/checkasm_32.S",
+            "third_party/dav1d/doc/Doxyfile.in",
+            "third_party/dav1d/tools/compat/getopt.c",
+            "third_party/dav1d/examples/meson.build",
+            "third_party/dav1d/tools/output/y4m2.c",
+            "third_party/dav1d/tests/checkasm/checkasm.c",
+            "third_party/dav1d/doc/dav1d_logo.png",
+            "third_party/dav1d/tools/input/input.c",
+            "third_party/dav1d/examples/dp_renderer_sdl.c",
+            "third_party/dav1d/examples/dp_fifo.c",
+            "third_party/dav1d/tests/checkasm/x86/checkasm.asm",
+            "third_party/dav1d/tests/libfuzzer/dav1d_fuzzer.c",
+            "third_party/dav1d/tools/dav1d.manifest",
+            "third_party/dav1d/examples/dp_renderer.h",
+            "third_party/dav1d/tools/output/output.h"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-09-07T16:17:54",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 493,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "e63a58427d0b1676370fc939a1744825af904d57",
+        "files": [
+            "third_party/dav1d/tools/input/parse.h",
+            "third_party/dav1d/tools/output/null.c",
+            "third_party/dav1d/examples/dp_renderer_placebo.c",
+            "third_party/dav1d/tools/dav1d.rc.in",
+            "third_party/dav1d/tests/checkasm/itx.c",
+            "third_party/dav1d/package/crossfiles/x86_64-w64-mingw32.meson",
+            "third_party/dav1d/tests/libfuzzer/meson.build",
+            "third_party/dav1d/tools/input/section5.c",
+            "third_party/dav1d/tests/checkasm/mc.c",
+            "third_party/dav1d/tools/output/output.c",
+            "mozbuild/mozbuild/vendor/moz.build",
+            "third_party/dav1d/examples/dav1dplay.c",
+            "third_party/dav1d/tests/checkasm/loopfilter.c",
+            "third_party/dav1d/tests/checkasm/filmgrain.c",
+            "third_party/dav1d/package/snap/snapcraft.yaml",
+            "third_party/dav1d/tools/output/yuv.c",
+            "media/libdav1d/autovendored_sources.mozbuild",
+            "third_party/dav1d/tests/checkasm/arm/checkasm_64.S",
+            "third_party/dav1d/tests/checkasm/ipred.c",
+            "third_party/dav1d/tests/libfuzzer/alloc_fail.h",
+            "third_party/dav1d/tests/libfuzzer/dav1d_fuzzer.h",
+            "third_party/dav1d/tools/dav1d_cli_parse.c",
+            "third_party/dav1d/tools/output/xxhash.c",
+            "third_party/dav1d/tools/input/input.h",
+            "third_party/dav1d/package/crossfiles/arm-android.meson",
+            "third_party/dav1d/tools/dav1d.c",
+            "third_party/dav1d/package/crossfiles/i686-w64-mingw32.meson",
+            "python/mozbuild/mozbuild/vendor/rewrite_mozbuild.py",
+            "third_party/dav1d/tools/meson.build",
+            "third_party/dav1d/package/crossfiles/aarch64-android.meson",
+            "third_party/dav1d/tests/libfuzzer/main.c",
+            "third_party/dav1d/tests/meson.build",
+            "third_party/dav1d/tests/checkasm/checkasm.h",
+            "third_party/dav1d/doc/PATENTS",
+            "third_party/dav1d/package/crossfiles/i686-linux32.meson",
+            "third_party/dav1d/tools/input/ivf.c",
+            "third_party/dav1d/tools/input/annexb.c",
+            "third_party/dav1d/tools/output/md5.c",
+            "third_party/dav1d/tests/checkasm/msac.c",
+            "media/libdav1d/moz.yaml",
+            "third_party/dav1d/tools/dav1d_cli_parse.h",
+            "third_party/dav1d/doc/dav1d_logo.svg",
+            "third_party/dav1d/tests/libfuzzer/alloc_fail.c",
+            "third_party/dav1d/tools/output/muxer.h",
+            "third_party/dav1d/tests/checkasm/cdef.c",
+            "third_party/dav1d/tests/header_test.c",
+            "third_party/dav1d/tests/checkasm/looprestoration.c",
+            "third_party/dav1d/examples/dp_fifo.h",
+            "third_party/dav1d/doc/meson.build",
+            "third_party/dav1d/tests/seek_stress.c",
+            "third_party/dav1d/tools/input/demuxer.h",
+            "third_party/dav1d/tests/checkasm/arm/checkasm_32.S",
+            "third_party/dav1d/doc/Doxyfile.in",
+            "third_party/dav1d/tools/compat/getopt.c",
+            "third_party/dav1d/examples/meson.build",
+            "third_party/dav1d/tools/output/y4m2.c",
+            "third_party/dav1d/tests/checkasm/checkasm.c",
+            "third_party/dav1d/doc/dav1d_logo.png",
+            "third_party/dav1d/tools/input/input.c",
+            "third_party/dav1d/examples/dp_renderer_sdl.c",
+            "third_party/dav1d/examples/dp_fifo.c",
+            "third_party/dav1d/tests/checkasm/x86/checkasm.asm",
+            "third_party/dav1d/tests/libfuzzer/dav1d_fuzzer.c",
+            "third_party/dav1d/tools/dav1d.manifest",
+            "third_party/dav1d/examples/dp_renderer.h",
+            "third_party/dav1d/tools/output/output.h"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-09-07T16:17:54",
+        "inducing_commit_hash": [
+            "341f68be81f51386c5d25bffd266b854d4793c3d"
+        ]
+    },
+    {
+        "id": 494,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "b0a93afb3347cc3cfb08cbca6b9fa616adc76337",
+        "files": [
+            "third_party/dav1d/tools/input/parse.h",
+            "third_party/dav1d/tools/output/null.c",
+            "third_party/dav1d/examples/dp_renderer_placebo.c",
+            "third_party/dav1d/tools/dav1d.rc.in",
+            "third_party/dav1d/tests/checkasm/itx.c",
+            "third_party/dav1d/package/crossfiles/x86_64-w64-mingw32.meson",
+            "third_party/dav1d/tests/libfuzzer/meson.build",
+            "third_party/dav1d/tools/input/section5.c",
+            "third_party/dav1d/tests/checkasm/mc.c",
+            "third_party/dav1d/tools/output/output.c",
+            "mozbuild/mozbuild/vendor/moz.build",
+            "third_party/dav1d/examples/dav1dplay.c",
+            "third_party/dav1d/tests/checkasm/loopfilter.c",
+            "third_party/dav1d/tests/checkasm/filmgrain.c",
+            "third_party/dav1d/package/snap/snapcraft.yaml",
+            "third_party/dav1d/tools/output/yuv.c",
+            "media/libdav1d/autovendored_sources.mozbuild",
+            "third_party/dav1d/tests/checkasm/arm/checkasm_64.S",
+            "third_party/dav1d/tests/checkasm/ipred.c",
+            "third_party/dav1d/tests/libfuzzer/alloc_fail.h",
+            "third_party/dav1d/tests/libfuzzer/dav1d_fuzzer.h",
+            "third_party/dav1d/tools/dav1d_cli_parse.c",
+            "third_party/dav1d/tools/output/xxhash.c",
+            "third_party/dav1d/tools/input/input.h",
+            "third_party/dav1d/package/crossfiles/arm-android.meson",
+            "third_party/dav1d/tools/dav1d.c",
+            "third_party/dav1d/package/crossfiles/i686-w64-mingw32.meson",
+            "python/mozbuild/mozbuild/vendor/rewrite_mozbuild.py",
+            "third_party/dav1d/tools/meson.build",
+            "third_party/dav1d/package/crossfiles/aarch64-android.meson",
+            "third_party/dav1d/tests/libfuzzer/main.c",
+            "third_party/dav1d/tests/meson.build",
+            "third_party/dav1d/tests/checkasm/checkasm.h",
+            "third_party/dav1d/doc/PATENTS",
+            "third_party/dav1d/package/crossfiles/i686-linux32.meson",
+            "third_party/dav1d/tools/input/ivf.c",
+            "third_party/dav1d/tools/input/annexb.c",
+            "third_party/dav1d/tools/output/md5.c",
+            "third_party/dav1d/tests/checkasm/msac.c",
+            "media/libdav1d/moz.yaml",
+            "third_party/dav1d/tools/dav1d_cli_parse.h",
+            "third_party/dav1d/doc/dav1d_logo.svg",
+            "third_party/dav1d/tests/libfuzzer/alloc_fail.c",
+            "third_party/dav1d/tools/output/muxer.h",
+            "third_party/dav1d/tests/checkasm/cdef.c",
+            "third_party/dav1d/tests/header_test.c",
+            "third_party/dav1d/tests/checkasm/looprestoration.c",
+            "third_party/dav1d/examples/dp_fifo.h",
+            "third_party/dav1d/doc/meson.build",
+            "third_party/dav1d/tests/seek_stress.c",
+            "third_party/dav1d/tools/input/demuxer.h",
+            "third_party/dav1d/tests/checkasm/arm/checkasm_32.S",
+            "third_party/dav1d/doc/Doxyfile.in",
+            "third_party/dav1d/tools/compat/getopt.c",
+            "third_party/dav1d/examples/meson.build",
+            "third_party/dav1d/tools/output/y4m2.c",
+            "third_party/dav1d/tests/checkasm/checkasm.c",
+            "third_party/dav1d/doc/dav1d_logo.png",
+            "third_party/dav1d/tools/input/input.c",
+            "third_party/dav1d/examples/dp_renderer_sdl.c",
+            "third_party/dav1d/examples/dp_fifo.c",
+            "third_party/dav1d/tests/checkasm/x86/checkasm.asm",
+            "third_party/dav1d/tests/libfuzzer/dav1d_fuzzer.c",
+            "third_party/dav1d/tools/dav1d.manifest",
+            "third_party/dav1d/examples/dp_renderer.h",
+            "third_party/dav1d/tools/output/output.h"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-09-07T16:17:54",
+        "inducing_commit_hash": [
+            "341f68be81f51386c5d25bffd266b854d4793c3d"
+        ]
+    },
+    {
+        "id": 495,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "572662dd8ef4bd30b466fd29c4f9832c2740a2d5",
+        "files": [
+            "third_party/dav1d/tools/input/parse.h",
+            "third_party/dav1d/tools/output/null.c",
+            "third_party/dav1d/examples/dp_renderer_placebo.c",
+            "third_party/dav1d/tools/dav1d.rc.in",
+            "third_party/dav1d/tests/checkasm/itx.c",
+            "third_party/dav1d/package/crossfiles/x86_64-w64-mingw32.meson",
+            "third_party/dav1d/tests/libfuzzer/meson.build",
+            "third_party/dav1d/tools/input/section5.c",
+            "third_party/dav1d/tests/checkasm/mc.c",
+            "third_party/dav1d/tools/output/output.c",
+            "mozbuild/mozbuild/vendor/moz.build",
+            "third_party/dav1d/examples/dav1dplay.c",
+            "third_party/dav1d/tests/checkasm/loopfilter.c",
+            "third_party/dav1d/tests/checkasm/filmgrain.c",
+            "third_party/dav1d/package/snap/snapcraft.yaml",
+            "third_party/dav1d/tools/output/yuv.c",
+            "media/libdav1d/autovendored_sources.mozbuild",
+            "third_party/dav1d/tests/checkasm/arm/checkasm_64.S",
+            "third_party/dav1d/tests/checkasm/ipred.c",
+            "third_party/dav1d/tests/libfuzzer/alloc_fail.h",
+            "third_party/dav1d/tests/libfuzzer/dav1d_fuzzer.h",
+            "third_party/dav1d/tools/dav1d_cli_parse.c",
+            "third_party/dav1d/tools/output/xxhash.c",
+            "third_party/dav1d/tools/input/input.h",
+            "third_party/dav1d/package/crossfiles/arm-android.meson",
+            "third_party/dav1d/tools/dav1d.c",
+            "third_party/dav1d/package/crossfiles/i686-w64-mingw32.meson",
+            "python/mozbuild/mozbuild/vendor/rewrite_mozbuild.py",
+            "third_party/dav1d/tools/meson.build",
+            "third_party/dav1d/package/crossfiles/aarch64-android.meson",
+            "third_party/dav1d/tests/libfuzzer/main.c",
+            "third_party/dav1d/tests/meson.build",
+            "third_party/dav1d/tests/checkasm/checkasm.h",
+            "third_party/dav1d/doc/PATENTS",
+            "third_party/dav1d/package/crossfiles/i686-linux32.meson",
+            "third_party/dav1d/tools/input/ivf.c",
+            "third_party/dav1d/tools/input/annexb.c",
+            "third_party/dav1d/tools/output/md5.c",
+            "third_party/dav1d/tests/checkasm/msac.c",
+            "media/libdav1d/moz.yaml",
+            "third_party/dav1d/tools/dav1d_cli_parse.h",
+            "third_party/dav1d/doc/dav1d_logo.svg",
+            "third_party/dav1d/tests/libfuzzer/alloc_fail.c",
+            "third_party/dav1d/tools/output/muxer.h",
+            "third_party/dav1d/tests/checkasm/cdef.c",
+            "third_party/dav1d/tests/header_test.c",
+            "third_party/dav1d/tests/checkasm/looprestoration.c",
+            "third_party/dav1d/examples/dp_fifo.h",
+            "third_party/dav1d/doc/meson.build",
+            "third_party/dav1d/tests/seek_stress.c",
+            "third_party/dav1d/tools/input/demuxer.h",
+            "third_party/dav1d/tests/checkasm/arm/checkasm_32.S",
+            "third_party/dav1d/doc/Doxyfile.in",
+            "third_party/dav1d/tools/compat/getopt.c",
+            "third_party/dav1d/examples/meson.build",
+            "third_party/dav1d/tools/output/y4m2.c",
+            "third_party/dav1d/tests/checkasm/checkasm.c",
+            "third_party/dav1d/doc/dav1d_logo.png",
+            "third_party/dav1d/tools/input/input.c",
+            "third_party/dav1d/examples/dp_renderer_sdl.c",
+            "third_party/dav1d/examples/dp_fifo.c",
+            "third_party/dav1d/tests/checkasm/x86/checkasm.asm",
+            "third_party/dav1d/tests/libfuzzer/dav1d_fuzzer.c",
+            "third_party/dav1d/tools/dav1d.manifest",
+            "third_party/dav1d/examples/dp_renderer.h",
+            "third_party/dav1d/tools/output/output.h"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-09-07T16:17:54",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 496,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "f3aecc53c8a38cc3d1595944c05e19954bcc7c3a",
+        "files": [
+            "toolkit/components/downloads/test/unit/test_DownloadBlockedTelemetry.js"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-09-09T02:36:03",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 497,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "a3e06ad1772e00c671355157c8248947f644a7ec",
+        "files": [
+            "raptor/browsertime/process_switch.js",
+            "testing/raptor/raptor/browsertime/base.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-09-17T06:23:52",
+        "inducing_commit_hash": [
+            "812795ff371c6f7c8b7db572c9a552890d25e5ce"
+        ]
+    },
+    {
+        "id": 498,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "24953ffcb3f383dcb519ed94573c7b58372904ff",
+        "files": [
+            "testing/web-platform/meta/secure-payment-confirmation/secure-payment-confirmation.tentative.https.html.ini",
+            "web-platform/tests/secure-payment-confirmation/secure-payment-confirmation-enrollment.https.html",
+            "web-platform/tests/secure-payment-confirmation/secure-payment-confirmation.tentative.https.html",
+            "testing/web-platform/meta/secure-payment-confirmation/secure-payment-confirmation-enrollment.https.html.ini"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-09-22T08:23:07",
+        "inducing_commit_hash": []
+    },
+    {
+        "id": 499,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "3d07faedcc628aa39d998cf9db335494610d7bab",
+        "files": [
+            "testing/webdriver/src/server.rs",
+            "testing/geckodriver/src/android.rs",
+            "testing/web-platform/tests/webdriver/tests/support/defaults.py",
+            "testing/web-platform/tests/tools/wptrunner/wptrunner/executors/base.py",
+            "testing/geckodriver/src/capabilities.rs",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/allow_origins.py",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/__init__.py",
+            "Cargo.lock",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/allow_hosts.py",
+            "testing/geckodriver/Cargo.toml",
+            "testing/geckodriver/src/main.rs",
+            "testing/geckodriver/doc/Flags.md",
+            "testing/geckodriver/src/logging.rs",
+            "testing/web-platform/mozilla/tests/webdriver/new_session/invalid.py",
+            "webdriver/src/server.rs",
+            "testing/webdriver/Cargo.toml",
+            "testing/geckodriver/CHANGES.md",
+            "testing/web-platform/tests/tools/wptrunner/wptrunner/executors/pytestrunner/runner.py",
+            "testing/web-platform/tests/webdriver/tests/support/fixtures.py",
+            "testing/web-platform/mozilla/tests/webdriver/new_session/create.py",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/request.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-09-27T08:06:25",
+        "inducing_commit_hash": [
+            "7100eae7c926b1da8b5ad8989717d1b4d44c0f0d"
+        ]
+    },
+    {
+        "id": 500,
+        "repo_name": "mozilla-unified",
+        "fix_commit_hash": "1c4739a76a20012edaa7da49b94fabc3f94baadb",
+        "files": [
+            "testing/webdriver/src/server.rs",
+            "testing/geckodriver/src/android.rs",
+            "testing/web-platform/tests/webdriver/tests/support/defaults.py",
+            "testing/web-platform/tests/tools/wptrunner/wptrunner/executors/base.py",
+            "testing/geckodriver/src/capabilities.rs",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/allow_origins.py",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/__init__.py",
+            "Cargo.lock",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/allow_hosts.py",
+            "testing/geckodriver/Cargo.toml",
+            "testing/geckodriver/src/main.rs",
+            "testing/geckodriver/doc/Flags.md",
+            "testing/geckodriver/src/logging.rs",
+            "testing/web-platform/mozilla/tests/webdriver/new_session/invalid.py",
+            "webdriver/src/server.rs",
+            "testing/webdriver/Cargo.toml",
+            "testing/geckodriver/CHANGES.md",
+            "testing/web-platform/tests/tools/wptrunner/wptrunner/executors/pytestrunner/runner.py",
+            "testing/web-platform/tests/webdriver/tests/support/fixtures.py",
+            "testing/web-platform/mozilla/tests/webdriver/new_session/create.py",
+            "testing/web-platform/mozilla/tests/webdriver/protocol/request.py"
+        ],
+        "bug_commit_hash": [
+            "0de1f92549fae30bc91e35915ffe09d4f64659b0"
+        ],
+        "earliest_issue_date": "2021-09-27T08:06:25",
+        "inducing_commit_hash": [
+            "57095db3ee24caf20b70cf0d93a8db7ab673ccc9"
+        ]
+    }
+]
