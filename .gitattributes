@@ -1,0 +1,2 @@
+RQ2-RQ3-RQ4/SZZ-evaluation/full_data.csv filter=lfs diff=lfs merge=lfs -text
+RQ2-RQ3-RQ4/SZZ-evaluation/src/filenames_history.json filter=lfs diff=lfs merge=lfs -text
