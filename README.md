@@ -21,16 +21,21 @@ RQ2-RQ3-RQ4/
 
 ## Contents of the Replication Package
 ---
-### `RQ1/Manual_Analysis.xlsx` contains the result of manual analysis on why developer mention files in bug reports?
+### `RQ1/Manual_Analysis.xlsx`:
+contains the result of manual analysis on why developer mention files in bug reports?
 
-### `RQ2-RQ3-RQ4/`: Supplement material for answering the RQ-RQ4 questions.
-#### In `SZZ-evaluation` We proide the setup Guide for Evaluation SZZ performance. Check its README.md for more details.
+### `RQ2-RQ3-RQ4/`: 
+Supplement material for answering the RQ-RQ4 questions.
+
+#### `SZZ-evaluation`:
+We proide the setup Guide for Evaluation SZZ performance. Check its README.md for more details.
    - `SZZ-evaluation/Datasets/`: Datasets for various file parsing strategies and SZZ variants
    - `SZZ-evaluation/src/`: Source code for evaluation of SZZ performance 
    - `SZZ-evaluation/test/`: Test cases to verify the evaluation setup
    - `SZZ-evaluation/out/`: Results of the evaluation for each version of SZZ. 
 
-#### In `SZZ-new-variant` We proide the setup Guide to run the new SZZ variant. Check its README.md for more details.
+#### `SZZ-new-variant`: 
+We proide the setup Guide to run the new SZZ variant. Check its README.md for more details.
 
 ## License
 
