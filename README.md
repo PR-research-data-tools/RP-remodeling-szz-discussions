@@ -1,5 +1,5 @@
-## Replication Package for `Can developer discussions Remodel SZZ?`
-This repository contains the replication package for the study `Can developer discussion Remodel SZZ?`.
+## Replication Package for `On Refining the SZZ Algorithm with Bug Discussion Data`
+This repository contains the replication package for the study `On Refining the SZZ Algorithm with Bug Discussion Data`.
 It propose a variant of SZZ which builds upon the NLP-PySZZ project to leverage developer discussion from bug reports and identify bug-introducing commits in a version control system. 
 It perform analysis on Mozilla BugZilla reports. It experiments with different SZZ versions and datasets and computes performance metrics such as Precision, Recall, and F-measure.
 
