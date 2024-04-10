@@ -30,7 +30,7 @@ Previous work by Rosa only considers the bugs that have at least one fix commit 
 'extrinsic_relaxed_dataset.json': 11879,
 }
 
-- `Filtered`: where there are both bug introducing commit and fix introducing commit.
+- `Filtered`: where there are files modified in bug introducing and referenced in bug reports, if there are no files modified in bug introducing commits, such commits can not be traced by SZZ (also requirement of our FI-SZZ).
 {'filtered_detangled_parsed_dataset.json': 8299,
 'filtered_extrinsic_relaxed_dataset.json': 8299,
 'filtered_relaxed_relaxed_dataset.json': 8299,
@@ -56,7 +56,7 @@ Previous work by Rosa only considers the bugs that have at least one fix commit 
 'extended_extrinsic_relaxed_dataset.json': 14356,
 'extended_detangled_relaxed_dataset.json': 13837,} 
 
-- `Extended/FilteredSample`: these are the bug for the sample on the level of bug fixing commits.
+- `Extended/FilteredSample`: Due to computational constraints of GIT process, we run SZZ on a sample of dataset. These are the bug for the sample on the level of bug fixing commits.
 {'extended_filtered_sample_detangled_relaxed_dataset.json': 796,
 'extended_filtered_sample_parsed_relaxed_dataset.json': 847,
 'extended_filtered_sample_relaxed_relaxed_dataset.json': 847,
